@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, Im Reece Harris</h1>
 <h3 align="center">A passionate backend developer from England | Programming/Network Student</h3>
 
-- 🔭 I’m currently working on [EscapeRoom(collage assignment)](https://github.com/NotReeceHarris/EscapeRoomtlevel)
+- 🔭 I’m currently working on [FlaskChatWebServer](https://github.com/NotReeceHarris/FlaskChatWebServer)
 
 - 👨‍💻 My portfolio **https://notreeceharris.github.io/Portfolio/**
 
