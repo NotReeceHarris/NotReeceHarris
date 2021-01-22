@@ -1,6 +1,8 @@
 <h1 align="center">Hello World, Im Reece Harris</h1>
 <h3 align="center">A passionate backend developer from England | Programming/Network Student</h3>
 
+- All the work i do nower days is privatised due to the company i develop for so if you need code examples hit me up
+
 - 🔭 I’m currently working on [FlaskChatWebServer](https://github.com/NotReeceHarris/FlaskChatWebServer)
 
 - 👨‍💻 My portfolio **https://notreeceharris.github.io/Portfolio/**
