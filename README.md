@@ -3,7 +3,7 @@
 
 - All the work i do nower days is privatised due to the company i develop for so if you need code examples hit me up
 
-- 🔭 I’m currently working on [FlaskChatWebServer](https://github.com/NotReeceHarris/FlaskChatWebServer)
+- 🔭 I’m currently working on Crypto Secrets (CrytoCurrency prediction and stats web application)
 
 - 👨‍💻 My portfolio **https://notreeceharris.github.io/Portfolio/**
 
