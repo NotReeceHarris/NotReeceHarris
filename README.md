@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio **https://notreeceharris.github.io/Portfolio/**
 
-- 🌱 I’m currently learning [Python/Php Development](https://github.com/NotReeceHarris)
+- 🌱 I’m currently learning [Python/Php Development, networking and security](https://github.com/NotReeceHarris)
 
 - 📫 How to reach me [(Email me)](mailto:reece.harris98@protonmail.com)
 
