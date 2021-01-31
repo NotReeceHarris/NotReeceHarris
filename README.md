@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Cryptonite Data (CryptoCurrency prediction and stats application)
 
-- 👨‍💻 My portfolio **https://notreeceharris.github.io/Portfolio/**
+- 👨‍💻 My [portfolio](https://notreeceharris.github.io/Portfolio/)
 
 - 🌱 I’m currently learning [Python/Php Development, networking and security](https://github.com/NotReeceHarris)
 
