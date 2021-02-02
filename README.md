@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, Im Reece Harris</h1>
-<h3 align="center">A passionate backend developer from England | Programming/Network Student</h3>
+<h3 align="center">A passionate backend developer and data scientist from England | Programming/Network Student</h3>
 
 - All the work i do nower days is privatised due to the company i develop for so if you need code examples hit me up
 
