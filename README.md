@@ -25,8 +25,8 @@
   * <strong>Pwn</strong>
   * <strong>C++</strong>
   * <strong>Js</strong>
-      * <strong>Vue</strong>
-      * <strong>Node</strong>
+      * <i>Vue</i>
+      * <i>Node</i>
   * <strong>Rust</strong>
   * <strong>COBOL</strong>
 
