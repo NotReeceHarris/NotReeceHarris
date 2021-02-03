@@ -31,9 +31,8 @@
   * <strong>COBOL</strong>
 
 ## Contact
-* [Reece Harris](https://github.com/NotReeceHarris) 
-* [Deven Briers](https://www.linkedin.com/in/deven-briers-5b62541bb/)
-* [Elijah McVey](https://www.linkedin.com/in/elijah-mcvey-97a5b81bb/)
-* [Kyle Willets](https://www.linkedin.com/in/kyle-willets-2315b81bb/)
+* [Email](mailto:reece.harris98@protonmail.com) 
+* [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
+* [Twitter](https://twitter.com/ZenoEchozZ)
 
 
