@@ -19,8 +19,8 @@
 ## Languages
 * <strong>Known languages</strong>
   * <strong><img src="https://img.shields.io/badge/Python-3-green.svg"></strong>
-  * <strong>Php<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
-  * <strong>Sql<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
+  * <strong><img src="https://img.shields.io/badge/Php-8.0.0.1-purple.svg"></strong>
+  * <strong><img src="https://img.shields.io/badge/SQL-yellow.svg"></strong>
 * <strong>Want to learn</strong>
   * <strong>Pwn</strong>
   * <strong>C++</strong>
