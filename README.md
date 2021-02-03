@@ -18,13 +18,17 @@
 
 ## Languages
 * <strong>Known languages</strong>
-  * <strong><img src="https://img.shields.io/badge/Python-3-green.svg"></strong>
-  * <strong><img src="https://img.shields.io/badge/Php-8.0.0.1-purple.svg"></strong>
-  * <strong><img src="https://img.shields.io/badge/SQL-yellow.svg"></strong>
+  * <strong>Python 3</strong>
+  * <strong>Php</strong>
+  * <strong>Sql</strong>
 * <strong>Want to learn</strong>
   * <strong>Pwn</strong>
   * <strong>C++</strong>
-  * <strong>Known languages</strong>
+  * <strong>Js</strong>
+      * <strong>Vue</strong>
+      * <strong>Node</strong>
+  * <strong>Rust</strong>
+  * <strong>COBOL</strong>
 
 ## Contact
 * [Reece Harris](https://github.com/NotReeceHarris) 
