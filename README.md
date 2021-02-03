@@ -8,7 +8,7 @@
   <br>
   <span>Terminal based random escape room game <br></span>
   <br>
-  <a target="_blank" href="https://discord.gg/SaN6t5zzBv" title="Discord link"><img src="https://img.shields.io/badge/Discord-Server-blue.svg"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/reece-harris-3215b91bb/" title="Hi lol"><img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></a>
 </p>
 
 <p align="center">
