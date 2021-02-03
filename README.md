@@ -17,11 +17,10 @@
 </p>
 
 ## Languages
-* <strong>Known languages<a target="_blank" href="https://www.linkedin.com/in/reece-harris-3215b91bb/" title="Hi lol"><img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></a>
-</strong>
-  * <strong>Python 3</strong>
-  * <strong>Php</strong>
-  * <strong>Sql</strong>
+* <strong>Known languages<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
+  * <strong>Python 3<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
+  * <strong>Php<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
+  * <strong>Sql<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
 * <strong>Want to learn</strong>
   * <strong>Pwn</strong>
   * <strong>C++</strong>
