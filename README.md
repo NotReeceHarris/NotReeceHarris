@@ -6,7 +6,7 @@
 
   <br>
   <br>
-  <span>Terminal based random escape room game <br></span>
+  <span>This is my account where i share all my projects and learning.<br></span>
   <br>
 </p>
 
