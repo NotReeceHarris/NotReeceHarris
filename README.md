@@ -17,8 +17,8 @@
 </p>
 
 ## Languages
-* <strong>Known languages<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
-  * <strong>Python 3<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
+* <strong>Known languages</strong>
+  * <strong><img src="https://img.shields.io/badge/Python-3-green.svg"></strong>
   * <strong>Php<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
   * <strong>Sql<img src="https://img.shields.io/badge/Linkedin-Profile-blue.svg"></strong>
 * <strong>Want to learn</strong>
