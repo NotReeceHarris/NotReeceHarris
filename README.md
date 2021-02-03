@@ -8,7 +8,7 @@
   <br>
   <span>Terminal based random escape room game <br></span>
   <br>
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/Discord-Server-Blue.svg"></a>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/Discord-Server-blue.svg"></a>
 </p>
 
 <p align="center">
