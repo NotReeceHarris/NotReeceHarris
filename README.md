@@ -1,15 +1,4 @@
 <h1 align="center">Hello World, Im Reece Harris</h1>
-
-<p align=center>
-
-  <img src="https://i.imgur.com/ze9ZN0R.png" alt="Well if your seeing this this image isnt loading lol..." />
-
-  <br>
-  <br>
-  <span>This is my account where i share all my projects and learning.<br></span>
-  <br>
-</p>
-
 <p align="center">
   <a href="#Languages">Languages</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
