@@ -1,10 +1,3 @@
-<h1 align="center">Hello World, Im Reece Harris</h1>
-<p align="center">
-  <a href="#Languages">Languages</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Contact">Contact</a>
-</p>
-
 ## Languages
 * <strong>Known languages</strong>
   * <strong>Python 3</strong>
