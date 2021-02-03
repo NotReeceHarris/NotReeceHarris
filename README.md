@@ -2,7 +2,7 @@
 
 <p align=center>
 
-  <img src="https://i.imgur.com/TarwWyF.png" alt="Well if your seeing this this image isnt loading lol..." />
+  <img src="https://i.imgur.com/ze9ZN0R.png" alt="Well if your seeing this this image isnt loading lol..." />
 
   <br>
   <br>
