@@ -12,32 +12,22 @@
 </p>
 
 <p align="center">
-  <a href="#Contributors">Contributors</a>
+  <a href="#Languages">Languages</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Run">Run</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Features">Features</a>
+  <a href="#Contact">Contact</a>
 </p>
 
-## Run
-[![Run on Repl.it](https://user-images.githubusercontent.com/27065646/92304596-bf719b00-ef7f-11ea-987f-2c1f3c323088.png)](https://repl.it/github/NotReeceHarris/EscapeRoomtlevel)
+## Languages
+* <strong>Known languages</strong>
+  * <strong>Python 3</strong>
+  * <strong>Php</strong>
+  * <strong>Sql</strong>
+* <strong>Want to learn</strong>
+  * <strong>Pwn</strong>
+  * <strong>C++</strong>
+  * <strong>Known languages</strong>
 
-## Update
-```console
-This project is being developed
-```
-
-## Features
-* <strong>Randomization</strong>
-* <strong>Puzzles</strong>
-* <strong>Game saving features</strong>
-
-
-## How and why
-<span>With all education your set to make projects well this is our project just overcomplicated with 1mil+ possible runs</span>
-<span>This project heavily depends on randomness its a simple script for python but a over engineered script for an escaperoom</span>
-
-## Contributors
+## Contact
 * [Reece Harris](https://github.com/NotReeceHarris) 
 * [Deven Briers](https://www.linkedin.com/in/deven-briers-5b62541bb/)
 * [Elijah McVey](https://www.linkedin.com/in/elijah-mcvey-97a5b81bb/)
