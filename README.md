@@ -15,6 +15,3 @@
 ## Contact
 * [Email](mailto:reece.harris98@protonmail.com) 
 * [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
-* [Twitter](https://twitter.com/ZenoEchozZ)
-
-
