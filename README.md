@@ -3,7 +3,7 @@
   * <strong>Python 3</strong> 
   * <strong>Php</strong>
   * <strong>Sql</strong>
-* <strong>Want to learn</strong>
+* <strong>Want to learn</strong> 
   * <strong>Pwn</strong>
   * <strong>C++</strong>
   * <strong>Js</strong>
