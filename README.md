@@ -1,6 +1,6 @@
 ## Languages
 * <strong>Known languages</strong>
-  * <strong>Python 3</strong> 
+  * [<strong>Python 3</strong>](https://www.python.org/)
   * <strong>Php</strong>
   * <strong>Sql</strong>
 * <strong>Want to learn</strong> 
