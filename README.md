@@ -1,16 +1,16 @@
 ## Languages
 * <strong>Known languages</strong>
   * [<strong>Python 3</strong>](https://www.python.org/)
-  * <strong>Php</strong>
-  * <strong>Sql</strong>
+  * [<strong>Php</strong>](https://www.php.net/)
+  * [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
 * <strong>Want to learn</strong> 
-  * <strong>Pwn</strong>
-  * <strong>C++</strong>
-  * <strong>Js</strong>
-      * <i>Vue</i>
-      * <i>Node</i>
-  * <strong>Rust</strong>
-  * <strong>COBOL</strong>
+  * [<strong>Pwn</strong>](https://wiki.alliedmods.net/Pawn_Tutorial)
+  * [<strong>C++</strong>](https://en.wikipedia.org/wiki/C%2B%2B)
+  * [<strong>Js</strong>](https://www.javascript.com/)
+      * [<i>Vue</i>](https://vuejs.org/)
+      * [<i>Node</i>](https://nodejs.org/en/)
+  * [<strong>Rust</strong>](https://www.rust-lang.org/)
+  * [<strong>COBOL</strong>](https://developer.ibm.com/languages/cobol/)
 
 ## Contact
 * [Email](mailto:reece.harris98@protonmail.com) 
