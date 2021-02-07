@@ -4,7 +4,6 @@
   * [<strong>Php</strong>](https://www.php.net/)
   * [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
 * <strong>Want to learn</strong> 
-  * [<strong>Pawn</strong>](https://wiki.alliedmods.net/Pawn_Tutorial)
   * [<strong>C++</strong>](https://en.wikipedia.org/wiki/C%2B%2B)
   * [<strong>Js</strong>](https://www.javascript.com/)
       * [<i>Vue</i>](https://vuejs.org/)
