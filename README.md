@@ -8,7 +8,7 @@
   * [<strong>Js</strong>](https://www.javascript.com/)
       * [<i>Vue</i>](https://vuejs.org/)
       * [<i>Node</i>](https://nodejs.org/en/)
-  * [<strong>Rust</strong>](https://www.rust-lang.org/)
+  * [<strong>R</strong>](https://www.r-project.org/)
   * [<strong>COBOL</strong>](https://developer.ibm.com/languages/cobol/)
 
 ## Contact
