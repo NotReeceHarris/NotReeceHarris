@@ -19,7 +19,8 @@
 
 <p align="center">
  <a href="mailto:reece.harris98@protonmail.com">Email</a>
- <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a>
+ <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/"><i class="fab fa-linkedin"></i></a>
+ <script src="https://kit.fontawesome.com/1a72356dcf.js" crossorigin="anonymous"></script>
 </p> 
 
 
