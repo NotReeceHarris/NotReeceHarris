@@ -18,9 +18,9 @@
  <b><h2 style="color: #fc6203">CONTACT INFO / ACCOUNTS</h2> </b>
 
 <p align="center">
- <a href="mailto:reece.harris98@protonmail.com">Email</a>
- <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a>
- <a href="https://www.devreece.tech/">Website</a>
+ <a href="mailto:reece.harris98@protonmail.com">Email</a> | 
+ <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a> | 
+ <a href="https://www.devreece.tech/">Website</a> | 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a>
 </p> 
 
