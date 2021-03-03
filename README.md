@@ -13,10 +13,8 @@
 
 <details align="center">
 
-<summary> <b> <samp> CONTACT INFO / ACCOUNTS </samp></b></summary>
+<summary> <b> <samp> CONTACT INFO</samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">CONTACT INFO / ACCOUNTS</h2> </b>
-
 <p align="center">
  <a href="mailto:reece.harris98@protonmail.com">Email</a> | 
  <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a> | 
