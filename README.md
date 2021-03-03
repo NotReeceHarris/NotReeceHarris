@@ -13,7 +13,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> CONTACT INFO / ACCOUNTS </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">CONTACT INFO / ACCOUNTS</h2> </b>
 
