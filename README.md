@@ -26,19 +26,11 @@ Current Project: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">a8q's dis
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UClJhN_CLAMgxVgQqgV8Y0_g">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://dsc.bio/a8q">
-  <img src="https://i.imgur.com/2nJAztj.png" width="30px" alt="Discord bio | dsc.bio"></a>
+## Contact
+* [Email](mailto:reece.harris98@protonmail.com) 
+* [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
 </p> 
 
 
 </samp>
 </details>
-
-Last Edited on: 2/18/21
-## Contact
-* [Email](mailto:reece.harris98@protonmail.com) 
-* [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
