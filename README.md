@@ -15,6 +15,7 @@
 
 <summary> <b> <samp> CONTACT INFO</samp></b></summary>
 <samp>
+ <br>
 <p align="center">
  <a href="mailto:reece.harris98@protonmail.com">Email</a> | 
  <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a> | 
