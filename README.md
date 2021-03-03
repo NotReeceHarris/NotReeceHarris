@@ -18,9 +18,6 @@
  <b><h2 style="color: #fc6203">CONTACT INFO / ACCOUNTS</h2> </b>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/someonenameda8q">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-## Contact
 * [Email](mailto:reece.harris98@protonmail.com) 
 * [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
 </p> 
