@@ -19,13 +19,9 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">a8q's discord account creator.</a>
-
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/someonenameda8q">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
 ## Contact
 * [Email](mailto:reece.harris98@protonmail.com) 
 * [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
