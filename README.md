@@ -18,8 +18,8 @@
  <b><h2 style="color: #fc6203">CONTACT INFO / ACCOUNTS</h2> </b>
 
 <p align="center">
-* [Email](mailto:reece.harris98@protonmail.com) 
-* [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/)
+ <a href="mailto:reece.harris98@protonmail.com">Email</a>
+ <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a>
 </p> 
 
 
