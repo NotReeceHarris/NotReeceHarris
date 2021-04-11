@@ -1,10 +1,10 @@
-## Languages
-* <strong>Known languages</strong>  
+## Technologies 
+* <strong>Known Technologies</strong>  
   * [<strong>Python 3</strong>](https://www.python.org/)
   * [<strong>Php</strong>](https://www.php.net/)
   * [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
   * [<strong>Jinja2</strong>](https://palletsprojects.com/p/jinja/)
-* <strong>Want to learn</strong> 
+* <strong>Want to Technologies</strong> 
   * [<strong>C#</strong>](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
   * [<strong>Js</strong>](https://www.javascript.com/)
       * [<i>Vue</i>](https://vuejs.org/)
