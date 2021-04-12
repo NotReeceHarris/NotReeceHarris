@@ -1,16 +1,15 @@
 ## Technologies 
 * <strong>Known Technologies</strong>  
-  * [<strong>Python 3</strong>](https://www.python.org/)
-  * [<strong>Php</strong>](https://www.php.net/)
-  * [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
-  * [<strong>Jinja2 (flask)</strong>](https://palletsprojects.com/p/jinja/)
-* <strong>Want to Technologies</strong> 
-  * [<strong>C#</strong>](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
-  * [<strong>Js</strong>](https://www.javascript.com/)
-      * [<i>Vue</i>](https://vuejs.org/)
-      * [<i>Node</i>](https://nodejs.org/en/)
-  * [<strong>R</strong>](https://www.r-project.org/)
-  * [<strong>COBOL</strong>](https://developer.ibm.com/languages/cobol/)
+  - [x] [<strong>Python 3</strong>](https://www.python.org/)
+  - [x] [<strong>Php</strong>](https://www.php.net/)
+  - [x] [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
+  - [x] [<strong>Jinja2 (flask)</strong>](https://palletsprojects.com/p/jinja/)
+  - [ ] [<strong>C#</strong>](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
+  - [ ] [<strong>Js</strong>](https://www.javascript.com/)
+      - [ ] [<i>Vue</i>](https://vuejs.org/)
+      - [ ] [<i>Node</i>](https://nodejs.org/en/)
+  - [ ] [<strong>R</strong>](https://www.r-project.org/)
+  - [ ] [<strong>COBOL</strong>](https://developer.ibm.com/languages/cobol/)
 
 <details align="center">
 
