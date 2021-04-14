@@ -21,6 +21,7 @@
  <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/">Linkedin</a> | 
  <a href="https://www.devreece.tech/">Website</a> | 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotReeceHarris&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="NotReeceHarris's github stats" />
 </p> 
 
 
