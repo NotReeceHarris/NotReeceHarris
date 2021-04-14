@@ -22,6 +22,7 @@
  <a href="https://www.devreece.tech/">Website</a> | 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a> <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotReeceHarris&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="NotReeceHarris's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple" alt="NotReeceHarris's github stats" />
 </p> 
 
 
