@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media0.giphy.com/media/LXONhtCmN32YU/giphy.gif?cid=ecf05e47auqg07246o35w35nfx074cb3f43cpwwklw8so48q&rid=giphy.gif&ct=g" alt="Bee movie" style="width: 50%;display: block;margin-left: auto;margin-right: auto;" />
+<img align="center" src="https://media0.giphy.com/media/LXONhtCmN32YU/giphy.gif?cid=ecf05e47auqg07246o35w35nfx074cb3f43cpwwklw8so48q&rid=giphy.gif&ct=g" alt="Bee movie" style="text-align:cente" />
 
 
 <details align="center">
