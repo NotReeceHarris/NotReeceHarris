@@ -1,15 +1,4 @@
-## Technologies 
-* <strong>Known Technologies</strong>  
-  - [x] [<strong>Python 3</strong>](https://www.python.org/)
-  - [x] [<strong>Php</strong>](https://www.php.net/)
-  - [x] [<strong>Sql</strong>](https://en.wikipedia.org/wiki/SQL)
-  - [x] [<strong>Jinja2 (flask)</strong>](https://palletsprojects.com/p/jinja/)
-  - [ ] [<strong>C#</strong>](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
-  - [ ] [<strong>Js</strong>](https://www.javascript.com/)
-      - [ ] [<i>Vue</i>](https://vuejs.org/)
-      - [ ] [<i>Node</i>](https://nodejs.org/en/)
-  - [ ] [<strong>R</strong>](https://www.r-project.org/)
-  - [ ] [<strong>COBOL</strong>](https://developer.ibm.com/languages/cobol/)
+<img align="center" src="https://media0.giphy.com/media/LXONhtCmN32YU/giphy.gif?cid=ecf05e47auqg07246o35w35nfx074cb3f43cpwwklw8so48q&rid=giphy.gif&ct=g" alt="Bee movie" />
 
 <details align="center">
 
