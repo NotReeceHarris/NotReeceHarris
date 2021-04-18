@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Reece Harris</h1>
 <p align=center>
   <a href="https://devreece.tech"><img align="center" src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/giphy%20(1).gif?raw=true" alt="Bee movie"  /> <br><br>
   <a href="mailto:reece.harris98@protonmail.com" title="Email">:email:</a> | 
