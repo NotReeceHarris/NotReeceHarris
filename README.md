@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reece Harris</h1>
 <p align=center>
   <a href="https://devreece.tech"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotReeceHarris&show_icons=true&locale=en" alt="NotReeceHarris" /></p> <br><br>
-  <a href="mailto:reece.harris98@protonmail.com" title="Email">:email:</a> | 
-  <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/" title="LinkedIn">:link:</a> | 
-  <a href="https://www.devreece.tech/" title="Website">:globe_with_meridians:</a>
 </p> 
   
 <h3 align="left">Connect with me:</h3>
