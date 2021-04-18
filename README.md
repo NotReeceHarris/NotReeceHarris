@@ -13,7 +13,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ```diff
+
 <p align="left"> 
 @@ <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="40" height="40"/> </a> 
 @@ <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="Html" width="40" height="40"/> </a> 
@@ -27,5 +29,7 @@
 @@ <a href="https://discord.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" width="40" height="40"/> </a> 
 @@ <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 @@ <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="Postman" width="40" height="40"/> </a> 
-@@ <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg" alt="Digital Ocean" width="40" height="40"/> </a></p>```
+@@ <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg" alt="Digital Ocean" width="40" height="40"/> </a></p>
+
+```
 
