@@ -9,7 +9,7 @@
 <a href="https://twitter.com/ZenoEchozZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ZenoEchozZ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/reece-harris-3215b91bb/" height="30" width="40" /></a>
 <a href="https://discord.com/invite/HmJPP3AnG9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="HmJPP3AnG9" height="30" width="40" /></a>
- <a href="https://devreece.tech/" target="blank"><img align="center" src="https://devreece.tech/static/favicon.png" alt="devreece.tech" height="30" width="40" /></a>
+ <a href="https://devreece.tech/" target="blank"><img align="center" src="https://devreece.tech/static/favicon.png" alt="devreece.tech" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
