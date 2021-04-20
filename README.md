@@ -25,7 +25,7 @@
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="Sql" width="40" height="40"/> </a> 
 <a href="https://www.cloudflare.com/en-gb/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="Linux" width="40" height="40"/> </a> 
-<a href="https://discord.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" width="40" height="40"/> </a> 
+<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg" alt="Digital Ocean" width="40" height="40"/> </a></p>
