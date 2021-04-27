@@ -5,7 +5,7 @@
 </p> 
   
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/ZenoEchozZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ZenoEchozZ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/reece-harris-3215b91bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/reece-harris-3215b91bb/" height="30" width="40" /></a>
 <a href="https://discord.com/invite/HmJPP3AnG9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="HmJPP3AnG9" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="center"> 
+<p align="left"> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="Html" width="40" height="40"/> </a> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="Php" width="40" height="40"/> </a> 
