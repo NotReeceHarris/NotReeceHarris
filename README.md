@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reece Harris</h1>
 <p align=center>
-  Im up for any challenge email me if you want me to contribute on any project.
+
   <a href="https://devreece.tech"><p align="center">&nbsp;<img align="center" src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true" alt="NotReeceHarris" /></p> <br><br>
 </p> 
   
