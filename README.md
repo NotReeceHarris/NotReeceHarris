@@ -7,7 +7,7 @@ I'm an aspired web developer and software engineer based in Lancashire, England.
 
 In my free time I also dabble with graphic design as a hobby however you can also find me playing games, driving around, exploring, spending time with friends and family 🙂.
 
-Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](https://twitter.com/ZenoEchozZ), [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/) and [Discord](https://discord.gg/HmJPP3AnG9). or checkout my website [devreece.tech](https://devreece.tech/).
+Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](https://twitter.com/ZenoEchozZ), [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/) and [Discord](https://discord.gg/HmJPP3AnG9). or checkout my website @ [devreece.tech](https://devreece.tech/).
 
 <details>
   <summary>CodeQl</summary>
