@@ -1,7 +1,7 @@
 <p align=center>
   
 ![picture alt](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true "Title is optional")
-<br><br>
+
   
 ---
   
