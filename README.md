@@ -1,4 +1,4 @@
-[![picture](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/2021.png?raw=true)](https://skyline.github.com/notreeceharris/2021)
+[![picture](2021.png)](https://skyline.github.com/notreeceharris/2021)
 ---
 
 **Hey, I'm Reece! 👋**
