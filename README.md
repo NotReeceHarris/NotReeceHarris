@@ -1,9 +1,9 @@
-![picture alt](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true)
+![picture](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true)
 ---
 
   
-🚧 [**Projects**](https://github.com/users/NotReeceHarris/projects/4)
-🚧 [**Projects**](https://github.com/users/NotReeceHarris/projects/4)
+🚧 [**Projects**](https://github.com/users/NotReeceHarris/projects/4) <br>
+🌐 [**Website**](https://devreece.tech)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
