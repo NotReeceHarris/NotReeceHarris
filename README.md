@@ -9,7 +9,7 @@ In my free time, you can catch me playing games, driving around, exploring, spen
 Feel free to reach me via email at mail@devreece.tech or Twitter [@ZenoEchozZ](https://twitter.com/ZenoEchozZ). or checkout my website [devreece.tech](https://devreece.tech/)
 
 <details>
-  <summary>Repo Status codes</summary>
+  <summary>CodeQl statuses</summary>
 
 Repo Name     | Status Code
 ------------- | -------------
