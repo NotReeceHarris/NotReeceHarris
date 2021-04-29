@@ -2,8 +2,8 @@
 ---
 
   
-🚧 [**Projects**](https://github.com/users/NotReeceHarris/projects/4) <br>
-🌐 [**Website**](https://devreece.tech)
+🚧 [**Projects**](https://github.com/users/NotReeceHarris/projects/4) Full list of projects im currently working on<br>
+🌐 [**Website**](https://devreece.tech) 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
