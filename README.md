@@ -1,6 +1,6 @@
 <p align=center>
 
-  <a href="https://devreece.tech"><p align="center">&nbsp;<img align="center" src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true" alt="NotReeceHarris" /></p> <br><br>
+  <a href="https://devreece.tech"><p align="center">&nbsp;<img align="center" src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true" alt="NotReeceHarris" /></a></p> <br><br>
   
 Checkout what im working on in my [projects](https://github.com/users/NotReeceHarris/projects/4)
 </p> 
