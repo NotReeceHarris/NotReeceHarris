@@ -8,9 +8,12 @@ I'm Reece an aspired web developer and software engineer based in Lancashire, En
 In my free time, you can catch me playing games, driving around, exploring, spending time with friends and family 🙂
 Feel free to reach me via email at mail@devreece.tech or Twitter [@ZenoEchozZ](https://twitter.com/ZenoEchozZ). or checkout my website [devreece.tech](https://devreece.tech/)
 
+<details>
+  <summary>Repo Status codes</summary>
+
 Repo Name     | Status Code
 ------------- | -------------
 [🔒 Harpocrate](https://github.com/NotReeceHarris/Harpocrate)    | [![CodeQL](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml/badge.svg?branch=1.0)](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml)
 [🐍 Slimy Terminal](https://github.com/NotReeceHarris/SlimyTerminal)| [![CodeQL](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml)
-
+</details>
 
