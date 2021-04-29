@@ -16,4 +16,3 @@ Repo Name     | Status Code
 [🔒 Harpocrate](https://github.com/NotReeceHarris/Harpocrate)    | [![CodeQL](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml/badge.svg?branch=1.0)](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml)
 [🐍 Slimy Terminal](https://github.com/NotReeceHarris/SlimyTerminal)| [![CodeQL](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml)
 </details>
-
