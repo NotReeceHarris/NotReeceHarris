@@ -1,12 +1,10 @@
 <p align=center>
   
-![picture alt](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true "Title is optional")
-
-  
+![picture alt](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/commit_model.png?raw=true "Title is optional") 
 ---
+</p> 
   
 Checkout what im working on in my [projects](https://github.com/users/NotReeceHarris/projects/4)
-</p> 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
