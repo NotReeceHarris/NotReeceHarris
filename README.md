@@ -3,7 +3,7 @@
 
 **Hey, I'm Reece! 👋**
 
-I'm an aspired web developer and software engineer based in Lancashire, England. I have a passion to create services and applications that both developers and everyday people can use, You can find all my current projects [🎯here](https://github.com/NotReeceHarris/NotReeceHarris/blob/main/README.md#--current-projectsrepo-namecodeqllicenseversion-harpocrate-slimy-terminal-ecobotv2).
+I'm an aspired web developer and software engineer based in Lancashire, England. I have a passion to create services and applications that both developers and everyday people can use, You can find all my current RoadMap [🎯here](https://github.com/users/NotReeceHarris/projects/4).
 
 Currently I'm using python to get nearly expert level however I also know PHP, HTML/CSS, SQL, TS, JS, SASS and I can learn and manipulate nearly any langauge as I am a fast learner.
 
