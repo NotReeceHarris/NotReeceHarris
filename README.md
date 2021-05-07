@@ -29,6 +29,7 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 - Discord.py
 - Tkinter
 ### Ide/Tools/Services
+- Git/Github
 - Photoshop
 - Vim
 - Visual Studio code
