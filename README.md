@@ -29,7 +29,6 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 - Discord.py
 - Tkinter
 ### Ide/Tools/Services
-- Google WebDesigner
 - Photoshop
 - Vim
 - Visual Studio code
