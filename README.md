@@ -12,6 +12,36 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 
 <h6>
 <details>
+  <summary>Technology</summary>
+  
+### Langagues
+- Python
+- Php
+- Javascript / TypeScript
+- Sql
+- Html/Css
+- Sass
+### libraries
+- Flask
+- Django
+- React
+- Django
+- Discord.py
+- Tkinter
+### Ide/Tools/Services
+- Google WebDesigner
+- Photoshop
+- Vim
+- Visual Studio code
+- Post man
+- SlimyTerminal
+
+
+</details>
+</h6>
+
+<h6>
+<details>
   <summary>Current Projects</summary>
 
 Repo Name     | CodeQl | License | Version
