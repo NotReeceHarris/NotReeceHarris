@@ -25,7 +25,6 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 - Flask
 - Django
 - React
-- Django
 - Discord.py
 - Tkinter
 ### Ide/Tools/Services
