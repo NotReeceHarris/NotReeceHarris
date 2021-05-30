@@ -32,9 +32,12 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 - Photoshop
 - Vim
 - Visual Studio code
+- Visual Studio
 - Post man
 - SlimyTerminal
-
+### Other
+- Windows
+- Linux
 
 </details>
 </h6>
