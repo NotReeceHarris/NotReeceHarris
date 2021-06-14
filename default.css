@@ -25,6 +25,18 @@ h4 {
 
 /*Mini My media*/
 
+.adminDrawerLogo img {
+	content: url('https://i.imgur.com/Vz04bjq.png') !important;
+}
+
+imgLogoIcon {
+	content: url('https://i.imgur.com/Vz04bjq.png') !important;
+}
+
+.pageTitleWithLogo {
+	background-image: url('https://i.imgur.com/Vz04bjq.png') !important;
+}
+
 #indexPage .raised.emby-button:hover {
     background: rgb(0, 0, 0, .75) !important;
     box-shadow: 0px 5px 9px 0px black;
