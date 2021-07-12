@@ -47,15 +47,3 @@ Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](http
 
 </details>
 </h6>
-
-<h6>
-<details>
-  <summary>Current Projects</summary>
-
-Repo Name     | CodeQl | License | Version
-------------- | ------------- | ------------- | -------------
-[🔒 Harpocrate](https://github.com/NotReeceHarris/Harpocrate)    | [![CodeQL](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml/badge.svg?branch=1.0)](https://github.com/NotReeceHarris/Harpocrate/actions/workflows/codeql-analysis.yml) | [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/Harpocrate/blob/1.0/LICENSE) | ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
-[🐍 Slimy Terminal](https://github.com/NotReeceHarris/SlimyTerminal)| [![CodeQL](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/SlimyTerminal/actions/workflows/codeql-analysis.yml) | [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/SlimyTerminal/blob/main/LICENSE) | ![Version](https://img.shields.io/badge/Version-1.1-blue.svg)
-[🤖 EcoBotV2](https://github.com/NotReeceHarris/EconomyDiscord-Bot) | [![CodeQL](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml) | [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/blob/version-2/LICENSE) | ![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
-</details>
-</h6>
