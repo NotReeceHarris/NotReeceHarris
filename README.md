@@ -5,7 +5,7 @@
 
 I'm an aspired web developer and software engineer based in Lancashire, England. I have a passion to create services and applications that both developers and everyday people can use, You can find all my current RoadMap [🎯here](https://github.com/users/NotReeceHarris/projects/4).
 
-I have experience in Linux support for this is my Linux build [NauticalOs](https://github.com/NotReeceHarris/NauticalOs), I also have experience with python evidence for this are my python projects [SlimyTerminal](https://github.com/NotReeceHarris/SlimyTerminal), [Harpocrate](https://github.com/NotReeceHarris/Harpocrate), EconomyDiscord-Bot, I like to do graphic design on the side to make my projects look professional and modern.
+I have experience with python evidence for this are my python projects [SlimyTerminal](https://github.com/NotReeceHarris/SlimyTerminal), [Harpocrate](https://github.com/NotReeceHarris/Harpocrate), EconomyDiscord-Bot, I like to do graphic design on the side to make my projects look professional and modern.
 
 I started my own tech development startup to bring not just my ideas to life but others too, This company is called techonaut and you can find us [here](https://techonaut.tech/).
 
