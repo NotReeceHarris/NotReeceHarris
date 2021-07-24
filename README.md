@@ -1,4 +1,4 @@
-[![picture](contribution-skyline/skyline-png/29_04_2021.png)](https://skyline.github.com/notreeceharris/2021)
+[![picture](29_04_2021.png)](https://techonaut.tech/)
 ---
 
 #### Hey, I'm Reece! 👋
