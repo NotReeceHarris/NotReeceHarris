@@ -1,4 +1,4 @@
-[![picture](29_04_2021.png)](https://techonaut.tech/)
+[![picture](https://i.imgur.com/93m4BWT.png)](https://techonaut.tech/)
 ---
 
 #### Hey, I'm Reece! 👋
