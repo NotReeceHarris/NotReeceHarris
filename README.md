@@ -3,18 +3,22 @@
 
 #### Hey, I'm Reece! 👋
 
-I'm an aspired web developer and software engineer based in Lancashire, England. I have a passion to create services and applications that both developers and everyday people can use, You can find all my current RoadMap [🎯here](https://github.com/users/NotReeceHarris/projects/4).
+I like to say I'm a software engineer, The only issue is I have hundreds of ideas and limited time to do them. I start a project and 2 weeks later start another however I will come back to past projects or let the community contribute.
 
-I have experience with python evidence for this are my python projects [SlimyTerminal](https://github.com/NotReeceHarris/SlimyTerminal), [Harpocrate](https://github.com/NotReeceHarris/Harpocrate), EconomyDiscord-Bot, I like to do graphic design on the side to make my projects look professional and modern.
+I find interest in trying different technologies and creating my systems, Areas I have dabbled in are Ethical Hacking, Cyber Security, Networking, Encryption, Operating systems, Web Development, Data Analysis, Data Storage and much more.
 
-I started my own tech development startup to bring not just my ideas to life but others too, This company is called techonaut and you can find us [here](https://techonaut.tech/).
+You can find me my socials here.
+- Twitter : https://twitter.com/ZenoEchozZ
+- Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
+- Email : reece.harris98@protonmail.com
 
-Other passions are a game design I would love to create worlds inspired by my creation and dreams bring my thoughts to life, I have experience with UE4 and blender.
-
-Currently, I'm using python to get nearly expert level however I also know PHP, HTML/CSS, SQL, TS, JS, SASS, C++ and I can learn and manipulate nearly any language as I am a fast learner.
-
-In my free time I also dabble with graphic design as a hobby however you can also find me playing games, driving around, exploring, spending time with friends and family 🙂. 
-Feel free to reach me via [Email](https://discord.gg/HmJPP3AnG9), [Twitter](https://twitter.com/ZenoEchozZ), [Linkedin](https://www.linkedin.com/in/reece-harris-3215b91bb/) and [Discord](https://discord.gg/HmJPP3AnG9). or checkout my website @ [devreece.tech](https://devreece.tech/).
+You can find my company here.
+- Website :  https://techonaut.tech/
+- Twitter : https://twitter.com/TECHONAUTorg
+- Youtube :  https://www.youtube.com/channel/UC6XtKN03AnWbN60ZJ-tQhVw
+- Linkedin : https://www.linkedin.com/company/techonaut/
+- Github : https://github.com/Techonaut
+- Email : mail@techonaut.tech
 
 <h6>
 <details>
