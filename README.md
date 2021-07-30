@@ -11,7 +11,7 @@ You can find my socials here.
 - Twitter : https://twitter.com/ZenoEchozZ
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
 - Email : reece.harris98@protonmail.com
-- Discord : dsc.bio/NotReeceHarris
+- Discord : https://dsc.bio/NotReeceHarris
 
 You can find my company here.
 - Website :  https://techonaut.tech/
