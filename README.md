@@ -12,6 +12,7 @@ You can find my socials here.
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
 - Email : reece.harris98@protonmail.com
 - Discord : https://dsc.bio/NotReeceHarris
+- Pypi : https://pypi.org/user/ZenoEchozZ/
 
 You can find my company here.
 - Website :  https://techonaut.tech/
