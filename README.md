@@ -1,7 +1,7 @@
 [![picture](https://i.imgur.com/93m4BWT.png)](https://techonaut.tech/)
 ---
 
-#### Hey, I'm Reece! 👋
+### Hey, I'm Reece! 👋
 
 I like to say I'm a software engineer, The only issue is I have hundreds of ideas and limited time to do them. I start a project and 2 weeks later start another however I will come back to past projects or let the community contribute.
 
