@@ -11,7 +11,7 @@ You can find my socials here.
 - Website : https://devreece.tech/
 - Twitter : https://twitter.com/ZenoEchozZ
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
-- Email : mailto:reeceharris@email.com
+- Email : reeceharris@email.com
 - Discord : https://dsc.bio/NotReeceHarris
 - Pypi : https://pypi.org/user/ZenoEchozZ/
 - Npm : https://www.npmjs.com/~notreeceharris
