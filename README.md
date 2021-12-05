@@ -1,4 +1,4 @@
-[![picture](https://i.imgur.com/93m4BWT.png)](https://techonaut.tech/)
+[![picture](https://raw.githubusercontent.com/NotReeceHarris/OpenCdn/main/img/carbon.svg)](https://techonaut.tech/)
 ---
 
 ### Hey, I'm Reece! 👋
