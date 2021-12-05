@@ -1,4 +1,4 @@
-[![picture](https://raw.githubusercontent.com/NotReeceHarris/OpenCdn/main/img/carbon.svg)](https://devreece.tech/)
+[![picture](https://raw.githubusercontent.com/NotReeceHarris/OpenCdn/6623cce2df261cf78a23dfb34f99c6c97e324eb6/img/carbon(1).svg)](https://devreece.tech/)
 ---
 
 ### Hey, I'm Reece! 👋
