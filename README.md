@@ -14,6 +14,4 @@ You can find my socials here.
 - Twitter : https://twitter.com/ZenoEchozZ
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
 - Email : reeceharris@email.com
-- Discord : https://dsc.bio/NotReeceHarris
-- Pypi : https://pypi.org/user/ZenoEchozZ/
-- Npm : https://www.npmjs.com/~notreeceharris
+- Buy me a coffee : https://www.buymeacoffee.com/NotReeceHarris
