@@ -7,6 +7,8 @@ I like to say I'm a software engineer, The only issue is I have hundreds of idea
 
 I find interest in trying different technologies and creating my systems, Areas I have dabbled in are Ethical Hacking, Cyber Security, Networking, Encryption, Operating systems, Web Development, Data Analysis, Data Storage and much more.
 
+**Check out my current project called [Encryptoid](https://github.com/NotReeceHarris/Encryptoid)**
+
 You can find my socials here.
 - Website : https://devreece.tech/
 - Twitter : https://twitter.com/ZenoEchozZ
