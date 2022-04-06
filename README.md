@@ -1,16 +1,10 @@
-[![picture](https://raw.githubusercontent.com/NotReeceHarris/OpenCdn/6623cce2df261cf78a23dfb34f99c6c97e324eb6/img/carbon(1).svg)](https://devreece.tech/)
----
-
 ### Hey, I'm Reece! 👋
 
-I like to say I'm a software engineer, The only issue is I have hundreds of ideas and limited time to do them. I start a project and 2 weeks later start another however I will come back to past projects or let the community contribute.
-
-I find interest in trying different technologies and creating my systems, Areas I have dabbled in are Ethical Hacking, Cyber Security, Networking, Encryption, Operating systems, Web Development, Data Analysis, Data Storage and much more.
+Dedicated software engineer with the ability to multitask and work well with others, efficient code oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.
 
 **Check out my current project called [Encryptoid](https://github.com/NotReeceHarris/Encryptoid)**
 
 You can find my socials here.
-- Website : https://devreece.tech/
 - Twitter : https://twitter.com/ZenoEchozZ
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
 - Email : reeceharris@email.com
