@@ -6,4 +6,4 @@ You can find my socials here.
 - Twitter : https://twitter.com/ZenoEchozZ
 - Linkedin : https://www.linkedin.com/in/reece-harris-3215b91bb/
 - Email : reeceharris@email.com
-- Buy me a coffee : https://www.buymeacoffee.com/NotReeceHarris
+- Sponsor me : https://github.com/sponsors/NotReeceHarris
