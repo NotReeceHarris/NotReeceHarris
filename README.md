@@ -4,6 +4,7 @@ Dedicated software engineer with the ability to multitask and work well with oth
 
 You can find my socials here.
 - Twitter : https://twitter.com/N0tReeceHarris
+- Gist : https://gist.github.com/NotReeceHarris
 - Email : reeceharris@email.com
 - Sponsor me : https://github.com/sponsors/NotReeceHarris
 
