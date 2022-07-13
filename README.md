@@ -26,13 +26,9 @@ CSS          53 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-<details> 
-	<summary><h4>🔗 Socials</h4></summary>
-	<ul>
-    		<li> <a href="https://www.linkedin.com/in/notreeceharris/">Linkedin</a> </li>
-		<li> <a href="https://twitter.com/N0tReeceHarris">Twitter</a> </li>
-		<li> <a href="https://gist.github.com/NotReeceHarris">Gist</a> </li>
-		<li> <a href="mailto:reeceharris@email.com">Email</a> </li>
-		<li> <a href="https://github.com/sponsors/NotReeceHarris">Sponsor Me</a> </li>
-	</ul>
-</details>
+[![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:reeceharris@email.com)
+[![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris)
+[![Instagram - @maybereeceharris](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/maybereeceharris)
+[![Facebook - Reece Harris](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reece.harris.754)
+[![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris)
