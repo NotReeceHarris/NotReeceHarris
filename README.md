@@ -16,7 +16,7 @@ JSON         1 hr 45 mins    █▒░░░░░░░░░░░░░░░
 CSS          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 <!--END_SECTION:waka-->
-<sub>⚡ Powered by wakatime</sub>
+<sub>⚡ Powered by [wakatime](https://wakatime.com/)</sub>
 
 ---
 
