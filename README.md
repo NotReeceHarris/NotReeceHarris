@@ -7,14 +7,16 @@
 
 #### ✨ Weekly overview.
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   11 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.77 %
-EJS          5 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Liquid       4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-SCSS         4 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-JSON         1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-CSS          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript   7 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Liquid       7 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.87 %
+EJS          4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+SCSS         3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+JSON         1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+CSS          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
+
 <!--END_SECTION:waka-->
 <sub>⚡ Powered by [wakatime](https://wakatime.com/)</sub>
 
