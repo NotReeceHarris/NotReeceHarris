@@ -26,6 +26,8 @@ EJS          41 mins         █░░░░░░░░░░░░░░░░
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotReeceHarris&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
+<sub>✏️ Created by [DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats)</sub>
+
 ---
 
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
