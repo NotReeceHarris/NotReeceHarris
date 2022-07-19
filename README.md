@@ -30,6 +30,31 @@ JSON         1 hr 10 mins    █▒░░░░░░░░░░░░░░░
 
 ---
 
+#### 📝 Plan for this year
+
+- [ ] Start a open-source dataset org
+  - [ ] create dataset apis
+  - [ ] create data mining tools
+  - [ ] opencollective account
+  - [ ] create npm package for datasets
+  
+- [x] rebrand discord economy bot
+  - [x] start version 3
+  - [ ] create version 3 
+  
+  
+- [ ] Mess around with polymorphism
+  - [ ] create a fingerprinting polymorphic js libary
+  - [ ] create a polymorphic encryption algorithm
+
+- [ ] retry cryptography
+  - [ ] create a polymorphic encryption algorithm
+  - [ ] create a per 2 per encrypted messaging app with flutter
+
+<sub>😥 I probably will never finish them all</sub>
+
+---
+
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:reeceharris@email.com)
 [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris)
