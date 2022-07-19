@@ -5,7 +5,7 @@
 
 ---
 
-#### ✨ Weekly overview.
+#### ✨ Weekly overview
 <!--START_SECTION:waka-->
 
 ```text
@@ -22,7 +22,7 @@ JSON         1 hr 10 mins    █▒░░░░░░░░░░░░░░░
 
 ---
 
-#### 🔥 Overall stats.
+#### 🔥 Overall stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotReeceHarris&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
