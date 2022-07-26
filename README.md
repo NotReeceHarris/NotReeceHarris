@@ -36,7 +36,7 @@ SCSS         6 mins          ▒░░░░░░░░░░░░░░░░
   - [ ] create dataset apis
   - [ ] create data mining tools
   - [ ] opencollective account
-  - [ ] create npm package for datasets
+  - [ ] create pip package for datasets
   
 - [x] rebrand discord economy bot
   - [x] start version 3
