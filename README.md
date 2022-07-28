@@ -50,6 +50,9 @@ Dart         10 mins         ▒░░░░░░░░░░░░░░░░
 - [ ] retry cryptography
   - [ ] create a polymorphic encryption algorithm
   - [ ] create a per 2 per encrypted messaging app with flutter
+  
+- [ ] Brute force ware
+  - [ ] JWT Brute force
 
 <sub>😥 I probably will never finish them all</sub>
 
