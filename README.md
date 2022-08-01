@@ -14,6 +14,7 @@ Big Five (Google, Amazon, Apple, Meta, Microsoft) <br>
 
 <details>
   <summary>🖥️ Technology Experience</summary>
+  <p>This is a brief overview of what i have used in the past</p>
   <ul>
     <li><h3>Frameworks</h3>
       <ul>
@@ -39,6 +40,8 @@ Big Five (Google, Amazon, Apple, Meta, Microsoft) <br>
       <ul>
         <li>Jquery</li>
         <li>Tailwind</li>
+        <li>Numpy</li>
+        <li>Beautiful soup</li>
       </ul>
     </li>
     <li><h3>Languages</h3>
