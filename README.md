@@ -12,6 +12,65 @@ Big Five (Google, Amazon, Apple, Meta, Microsoft) <br>
 
 ---
 
+<details>
+  <summary>🖥️ Technology Experience</summary>
+  <ul>
+    <li><h3>Frameworks</h3>
+      <ul>
+        <li>Symfony</li>
+        <li>Node</li>
+        <li>Flask</li>
+        <li>Flutter</li>
+        <li>Prototype</li>
+        <li>Laraval</li>
+      </ul>
+    </li>
+    <li><h3>Services</h3>
+      <ul>
+        <li>Shopify</li>
+        <li>Wordpress</li>
+        <li>Mailchimp</li>
+        <li>Stripe</li>
+        <li>Firebase</li>
+        <li>Mysql</li>
+      </ul>
+    </li>
+    <li><h3>Libaries</h3>
+      <ul>
+        <li>Jquery</li>
+        <li>Tailwind</li>
+      </ul>
+    </li>
+    <li><h3>Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>Javascript</li>
+        <li>Php</li>
+        <li>Perl</li>
+        <li>Ruby</li>
+        <li>Dart</li>
+        <li>Ojective-C</li>
+        <li>Liquid/EJS/Jinja2</li>
+        <li>Sass/Css/Tailwind</li>
+        <li>Html/Pug/Haml/Slim</li>
+        <li>SQL</li>
+      </ul>
+    </li>
+    <li><h3>Other</h3>
+      <ul>
+        <li>Linux</li>
+        <li>Windows</li>
+        <li>OpenVpn</li>
+        <li>Nextcloud / Owncloud</li>
+        <li>Rpi</li>
+        <li>Arduino</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+---
+
 #### ✨ Weekly overview
 <!--START_SECTION:waka-->
 
