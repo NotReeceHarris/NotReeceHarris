@@ -1,7 +1,14 @@
 
 # Hey, I'm Reece! 👋
-> <p>Dedicated software engineer with the ability to multitask and work well with others, efficient code oriented, bringing forth a professional and friendly attitude.</p>
-> <p>Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.</p>
+
+> 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 <br>
+I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security within England's secret services, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. <br> <br>
+📝 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 <br>
+Dedicated software engineer with the ability to multitask and work well with others, efficient code-oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness. <br> <br>
+✨ 𝗗𝗿𝗲𝗮𝗺 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗿𝘀 <br>
+[Monzo](https://github.com/monzo) <br>
+[English secret services](https://www.mi5.gov.uk/) <br>
+Big Five (Google, Amazon, Apple, Meta, Microsoft) <br>
 
 ---
 
