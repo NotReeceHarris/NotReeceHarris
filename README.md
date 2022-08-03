@@ -8,7 +8,7 @@ Dedicated software engineer with the ability to multitask and work well with oth
 ✨ 𝗗𝗿𝗲𝗮𝗺 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗿𝘀 <br>
 [Monzo](https://github.com/monzo) <br>
 [English secret services](https://www.mi5.gov.uk/) <br>
-Big Five (Google, Amazon, Apple, Meta, Microsoft) <br>
+Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws), [Apple](https://github.com/apple), [Meta](https://github.com/facebook), [Microsoft](https://github.com/microsoft)) <br>
 
 ---
 
