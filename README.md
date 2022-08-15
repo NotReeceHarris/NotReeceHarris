@@ -12,6 +12,51 @@ Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws),
 
 ---
 
+#### ✨ Weekly overview
+<!--START_SECTION:waka-->
+
+```text
+Liquid       10 hrs 4 mins   ███████████████▓░░░░░░░░░   62.97 %
+JavaScript   2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+PHP          1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+```
+
+<!--END_SECTION:waka-->
+<sub>⚡ Powered by [wakatime](https://wakatime.com/)</sub>
+
+---
+
+#### 📝 Plan for this year
+
+- [ ] Start a open-source dataset org
+  - [ ] create dataset apis
+  - [ ] create data mining tools
+  - [ ] opencollective account
+  - [ ] create pip package for datasets
+  
+- [x] rebrand discord economy bot
+  - [x] start version 3
+  - [ ] create version 3 
+  
+  
+- [ ] Mess around with polymorphism
+  - [ ] create a fingerprinting polymorphic js libary
+  - [ ] create a polymorphic encryption algorithm
+
+- [ ] retry cryptography
+  - [ ] create a polymorphic encryption algorithm
+  - [ ] create a per 2 per encrypted messaging app with flutter
+  
+- [ ] Brute force ware
+  - [ ] JWT Brute force
+
+<sub>😥 I probably will never finish them all</sub>
+
+---
+
 <details>
   <summary>🖥️ Technology Experience</summary>
   <p>This is a brief overview of what i have used in the past</p>
@@ -72,59 +117,6 @@ Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws),
     </li>
   </ul>
 </details>
-
----
-
-#### ✨ Weekly overview
-<!--START_SECTION:waka-->
-
-```text
-Liquid       10 hrs 4 mins   ███████████████▓░░░░░░░░░   62.97 %
-JavaScript   2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-PHP          1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-```
-
-<!--END_SECTION:waka-->
-<sub>⚡ Powered by [wakatime](https://wakatime.com/)</sub>
-
----
-
-#### 🔥 Overall stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotReeceHarris&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
-
-<sub>✏️ Created by [DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats)</sub>
-
----
-
-#### 📝 Plan for this year
-
-- [ ] Start a open-source dataset org
-  - [ ] create dataset apis
-  - [ ] create data mining tools
-  - [ ] opencollective account
-  - [ ] create pip package for datasets
-  
-- [x] rebrand discord economy bot
-  - [x] start version 3
-  - [ ] create version 3 
-  
-  
-- [ ] Mess around with polymorphism
-  - [ ] create a fingerprinting polymorphic js libary
-  - [ ] create a polymorphic encryption algorithm
-
-- [ ] retry cryptography
-  - [ ] create a polymorphic encryption algorithm
-  - [ ] create a per 2 per encrypted messaging app with flutter
-  
-- [ ] Brute force ware
-  - [ ] JWT Brute force
-
-<sub>😥 I probably will never finish them all</sub>
 
 ---
 
