@@ -57,6 +57,7 @@ Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws),
         <li>Sass/Css/Tailwind</li>
         <li>Html/Pug/Haml/Slim</li>
         <li>SQL</li>
+        <li>Dart</li>
       </ul>
     </li>
     <li><h3>Other</h3>
