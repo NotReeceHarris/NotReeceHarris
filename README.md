@@ -121,7 +121,8 @@ HTML            3 hrs 22 mins   ██▒░░░░░░░░░░░░░
 ---
 
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:reeceharris@email.com)
+[![Codepen - Reece Harris](https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/notreeceharris)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com)
 [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris)
 [![Instagram - @maybereeceharris](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/maybereeceharris)
 [![Facebook - Reece Harris](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reece.harris.754)
