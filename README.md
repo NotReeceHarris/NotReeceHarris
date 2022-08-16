@@ -59,63 +59,55 @@ HTML            3 hrs 22 mins   ██▒░░░░░░░░░░░░░
 
 <details>
   <summary>🖥️ Technology Experience</summary>
-  <p>This is a brief overview of what i have used in the past</p>
-  <ul>
-    <li><h3>Frameworks</h3>
-      <ul>
-        <li>Symfony</li>
-        <li>Node</li>
-        <li>Flask</li>
-        <li>Flutter</li>
-        <li>Prototype</li>
-        <li>Laraval</li>
-      </ul>
-    </li>
-    <li><h3>Services</h3>
-      <ul>
-        <li>Shopify</li>
-        <li>Wordpress</li>
-        <li>Mailchimp</li>
-        <li>Stripe</li>
-        <li>Firebase</li>
-        <li>Mysql</li>
-      </ul>
-    </li>
-    <li><h3>Libaries</h3>
-      <ul>
-        <li>Jquery</li>
-        <li>Tailwind</li>
-        <li>Numpy</li>
-        <li>Beautiful soup</li>
-      </ul>
-    </li>
-    <li><h3>Languages</h3>
-      <ul>
-        <li>Python</li>
-        <li>Javascript</li>
-        <li>Php</li>
-        <li>Perl</li>
-        <li>Ruby</li>
-        <li>Dart</li>
-        <li>Ojective-C</li>
-        <li>Liquid/EJS/Jinja2</li>
-        <li>Sass/Css/Tailwind</li>
-        <li>Html/Pug/Haml/Slim</li>
-        <li>SQL</li>
-        <li>Dart</li>
-      </ul>
-    </li>
-    <li><h3>Other</h3>
-      <ul>
-        <li>Linux</li>
-        <li>Windows</li>
-        <li>OpenVpn</li>
-        <li>Nextcloud / Owncloud</li>
-        <li>Rpi</li>
-        <li>Arduino</li>
-      </ul>
-    </li>
-  </ul>
+  
+  ## Languages
+  ![Javascript](https://img.shields.io/badge/Javascript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-efd81d?style=for-the-badge&logo=PHP&logoColor=black)
+  ![Perl](https://img.shields.io/badge/Perl-efd81d?style=for-the-badge&logo=Perl&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-efd81d?style=for-the-badge&logo=Python&logoColor=black)
+  ![Scss](https://img.shields.io/badge/Scss-efd81d?style=for-the-badge&logo=Sass&logoColor=black)
+  ![Lua](https://img.shields.io/badge/Lua-efd81d?style=for-the-badge&logo=Lua&logoColor=black)
+  ![Dart](https://img.shields.io/badge/Dart-efd81d?style=for-the-badge&logo=Dart&logoColor=black)
+  ![Liquid](https://img.shields.io/badge/Liquid-efd81d?style=for-the-badge&logo=Shopify&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-efd81d?style=for-the-badge&logo=GNU%20Bash&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-efd81d?style=for-the-badge&logo=Bash&logoColor=black)
+  
+  ## Runtimes
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=white)
+  
+  ## frameworks
+  ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+  
+  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=Laravel&logoColor=white)
+  
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=Svelte&logoColor=white)
+  
+  ## Packages
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+  ![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Passport](https://img.shields.io/badge/Passport-000000?style=for-the-badge&logo=Passport&logoColor=white)
+  ![Bower](https://img.shields.io/badge/Bower-000000?style=for-the-badge&logo=Bower&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)
+  
+  ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=Numpy&logoColor=white)
+  ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=Python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Python&logoColor=white)
+  ![Urllib3](https://img.shields.io/badge/Urllib3-000000?style=for-the-badge&logo=Python&logoColor=white)
+  
+  ## Serivices
+  ![Shopify](https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=Shopify&logoColor=white)
+  ![Wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=Wordpress&logoColor=white)
+  ![Magento](https://img.shields.io/badge/Magento-000000?style=for-the-badge&logo=Magento&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=Stripe&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
+  
 </details>
 
 ---
