@@ -29,31 +29,9 @@ CSS             52 mins         ▓░░░░░░░░░░░░░░░
 
 ---
 
-#### 📝 Plan for this year
-
-- [ ] Start a open-source dataset org
-  - [ ] create dataset apis
-  - [ ] create data mining tools
-  - [ ] opencollective account
-  - [ ] create pip package for datasets
-  
-- [x] rebrand discord economy bot
-  - [x] start version 3
-  - [ ] create version 3 
-  
-  
-- [ ] Mess around with polymorphism
-  - [ ] create a fingerprinting polymorphic js libary
-  - [ ] create a polymorphic encryption algorithm
-
-- [ ] retry cryptography
-  - [ ] create a polymorphic encryption algorithm
-  - [ ] create a per 2 per encrypted messaging app with flutter
-  
-- [ ] Brute force ware
-  - [ ] JWT Brute force
-
-<sub>😥 I probably will never finish them all</sub>
+#### 📝 Current projects
+### Frogster
+> Frogster is a multiplatform adventure game with plans to run on mobile, webapp, desktop, and through a discord bot.
 
 ---
 
