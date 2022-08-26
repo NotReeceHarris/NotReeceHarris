@@ -16,12 +16,12 @@ Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws),
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.41 %
-Dart         6 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-HTML         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-SCSS         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-CSS          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Twig         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript   13 hrs 17 mins  ███████████░░░░░░░░░░░░░░   44.45 %
+Dart         10 hrs 11 mins  ████████▓░░░░░░░░░░░░░░░░   34.08 %
+HTML         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+CSS          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+SCSS         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+PHP          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
