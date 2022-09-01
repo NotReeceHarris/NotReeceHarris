@@ -14,8 +14,9 @@ Dedicated software engineer with the ability to multitask and work well with oth
 Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws), [Apple](https://github.com/apple), [Meta](https://github.com/facebook), [Microsoft](https://github.com/microsoft)) <br> <br>
 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 <br>
 Artificial intelligence ([sight](https://github.com/NotReeceHarris/sight)) <br>
-Cyber security ([DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA))<br>
-Encryption ([open-cloak](https://github.com/NotReeceHarris/open-cloak))<br>
+Cyber security ([DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)) <br>
+Encryption ([open-cloak](https://github.com/NotReeceHarris/open-cloak)) <br>
+Complex algorithms ([HexGeneration](https://github.com/Frogster-app/HexGeneration)) <br>
 
 # 
 
