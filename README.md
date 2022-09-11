@@ -36,6 +36,15 @@ PHP             1 hr 29 mins    █▒░░░░░░░░░░░░░░
 
 # 
 
+#### 🔨 Current projects
+
+- [project-wizard-org](https://github.com/project-wizard-org)
+- [NotReeceHarris/sight](https://github.com/NotReeceHarris/sight)
+- [NotReeceHarris/open-cloak](https://github.com/NotReeceHarris/open-cloak)
+- [NotReeceHarris/DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)
+
+# 
+
 <br>
 
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
