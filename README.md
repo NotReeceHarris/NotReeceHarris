@@ -38,7 +38,6 @@ HTML         11 mins         ▒░░░░░░░░░░░░░░░░
 
 #### 🔨 Current projects
 
-- [project-wizard-org](https://github.com/project-wizard-org)
 - [NotReeceHarris/sight](https://github.com/NotReeceHarris/sight)
 - [NotReeceHarris/open-cloak](https://github.com/NotReeceHarris/open-cloak)
 - [NotReeceHarris/DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)
