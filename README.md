@@ -38,9 +38,7 @@ JSON         59 mins         █░░░░░░░░░░░░░░░░
 
 #### 🔨 Current projects
 
-- [NotReeceHarris/sight](https://github.com/NotReeceHarris/sight)
-- [NotReeceHarris/open-cloak](https://github.com/NotReeceHarris/open-cloak)
-- [NotReeceHarris/DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)
+- [Frogster-app](https://github.com/Frogster-app)
 
 # 
 
