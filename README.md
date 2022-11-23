@@ -37,8 +37,7 @@ Bash         2 mins          ░░░░░░░░░░░░░░░░░
 # 
 
 #### 🔨 Current projects
-
-- [Frogster-app](https://github.com/Frogster-app)
+[@Frogster-app](https://github.com/Frogster-app)
 
 # 
 
