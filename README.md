@@ -32,10 +32,6 @@ Git          3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# 
-
-#### 🔨 Current projects
-[@Frogster-app](https://github.com/Frogster-app)
 
 # 
 
