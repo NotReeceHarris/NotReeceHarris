@@ -24,12 +24,12 @@ Complex algorithms ([HexGeneration](https://github.com/Frogster-app/HexGeneratio
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   36.24 %
-EJS          7 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-HTML         7 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.55 %
-JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-PHP          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+EJS          9 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.76 %
+JavaScript   9 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 %
+HTML         7 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+PHP          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
