@@ -24,7 +24,7 @@ Complex algorithms ([HexGeneration](https://github.com/Frogster-app/HexGeneratio
 
 # 
 
-#### ✨ Weekly overview
+#### ✨ Weekly overview *(powered by [WakaTime](https://wakatime.com/))*
 <!--START_SECTION:waka-->
 
 ```text
