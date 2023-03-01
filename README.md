@@ -41,7 +41,7 @@ Other          13 mins         ▒░░░░░░░░░░░░░░░�
 
 # 
 
-Read my latest article [here](reeceharris.net/latest)
+Read my latest article [here](https://reeceharris.net/latest)
 
 <br>
 
