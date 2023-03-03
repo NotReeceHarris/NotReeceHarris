@@ -13,10 +13,10 @@ Dedicated software engineer with the ability to multitask and work well with oth
 [BAE systems](https://www.baesystems.com/) <br>
 [English secret services](https://www.mi5.gov.uk/cyber) <br><br>
 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 <br>
-Artificial intelligence ([sight](https://github.com/NotReeceHarris/sight)) <br>
-Cyber security ([DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)) <br>
-Encryption ([open-cloak](https://github.com/NotReeceHarris/open-cloak)) <br>
-Complex algorithms ([HexGeneration](https://github.com/Frogster-app/HexGeneration)) <br>
+Artificial intelligence <br>
+Cyber security <br>
+Cryptography  <br>
+Blog Writing
 
 # 
 
