@@ -11,11 +11,7 @@ Dedicated software engineer with the ability to multitask and work well with oth
 [GCHQ](https://www.gchq.gov.uk/) <br>
 [Monzo](https://github.com/monzo) <br>
 [BAE systems](https://www.baesystems.com/) <br>
-[English secret services](https://www.mi5.gov.uk/cyber) <br>
-<!-- [Monzo](https://github.com/monzo) <br>
-[English secret services](https://www.mi5.gov.uk/cyber) <br>
-[BAE systems](https://www.baesystems.com/) <br>
-Big Five ([Google](https://github.com/google), [Amazon](https://github.com/aws), [Apple](https://github.com/apple), [Meta](https://github.com/facebook), [Microsoft](https://github.com/microsoft)) <br> <br> -->
+[English secret services](https://www.mi5.gov.uk/cyber) <br><br>
 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 <br>
 Artificial intelligence ([sight](https://github.com/NotReeceHarris/sight)) <br>
 Cyber security ([DiscordMFA](https://github.com/NotReeceHarris/DiscordMFA)) <br>
