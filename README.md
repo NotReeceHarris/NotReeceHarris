@@ -24,10 +24,10 @@ Blog Writing
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 27 mins   ██████████████░░░░░░░░░░░   55.89 %
-EJS          4 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   43.11 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+EJS          5 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.69 %
+JavaScript   4 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   45.11 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
