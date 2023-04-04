@@ -1,6 +1,23 @@
 
 # Hey, I'm Reece! 👋
 
+<br>
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   20 hrs 53 mins  ███████████████▒░░░░░░░░░   61.18 %
+EJS          10 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   31.39 %
+JSON         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+```
+
+<!--END_SECTION:waka-->
+
+#
+
+<br>
+
  <details>
   <summary>Overview</summary>
   
@@ -28,27 +45,12 @@
   > - [x] Post regularly on my blog blogs (https://reeceharris.net)
 </details> 
 
-# 
-
-#### ✨ Weekly overview *(powered by [WakaTime](https://wakatime.com/))*
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   20 hrs 53 mins  ███████████████▒░░░░░░░░░   61.18 %
-EJS          10 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   31.39 %
-JSON         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
-
-<!--END_SECTION:waka-->
-
-
-# 
-
-Read my latest article [here](https://reeceharris.net/latest)
-
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
 [![Codepen - Reece Harris](https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/notreeceharris)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com)
 [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris)
 [![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris)
+
+#
+
+Read my latest article [here](https://reeceharris.net/latest)
