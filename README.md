@@ -1,30 +1,32 @@
 
 # Hey, I'm Reece! 👋
 
-<br>
-
-> 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 \
->I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security within England's secret services, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
->
->📝 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 \
->Dedicated software engineer with the ability to multitask and work well with others, efficient code-oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.
->
->✨ 𝗗𝗿𝗲𝗮𝗺 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗿𝘀 
-> - [GCHQ](https://www.gchq.gov.uk/) 
-> - [Monzo](https://github.com/monzo) 
-> - [BAE systems](https://www.baesystems.com/) 
-> - [English secret services](https://www.mi5.gov.uk/cyber) 
-> 
-> 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 
-> - Artificial intelligence 
-> - Cyber security 
-> - Cryptography 
-> - Blog Writing
-> 
-> 🎉 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿'𝘀 𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 
-> - [x] Dont drop projects, keep support for packages.
-> - [x] Work on new technology within my intrests. 
-> - [x] Post regularly on my blog blogs (https://reeceharris.net)
+ <details>
+  <summary>Overview</summary>
+  
+  > 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 \
+  >I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security within England's secret services, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
+  >
+  >📝 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 \
+  >Dedicated software engineer with the ability to multitask and work well with others, efficient code-oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.
+  >
+  >✨ 𝗗𝗿𝗲𝗮𝗺 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗿𝘀 
+  > - [GCHQ](https://www.gchq.gov.uk/) 
+  > - [Monzo](https://github.com/monzo) 
+  > - [BAE systems](https://www.baesystems.com/) 
+  > - [English secret services](https://www.mi5.gov.uk/cyber) 
+  > 
+  > 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 
+  > - Artificial intelligence 
+  > - Cyber security 
+  > - Cryptography 
+  > - Blog Writing
+  > 
+  > 🎉 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿'𝘀 𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 
+  > - [x] Dont drop projects, keep support for packages.
+  > - [x] Work on new technology within my intrests. 
+  > - [x] Post regularly on my blog blogs (https://reeceharris.net)
+</details> 
 
 # 
 
@@ -44,8 +46,6 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 # 
 
 Read my latest article [here](https://reeceharris.net/latest)
-
-<br>
 
 [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
 [![Codepen - Reece Harris](https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/notreeceharris)
