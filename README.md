@@ -55,7 +55,7 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 
  <details>
 
-  <summary>Free Slipper Zero!</summary>
+  <summary>Free Flipper Zero!</summary>
 
  # GET RICK ROLLED !
  ![lol](./cdn/rr.gif)
