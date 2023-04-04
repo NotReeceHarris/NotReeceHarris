@@ -24,7 +24,7 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 
  <details>
 
-  <summary>About Me!</summary>
+  <summary>About Me</summary>
   
   > 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 \
   >I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security within England's secret services, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
@@ -48,6 +48,15 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
   > - [x] Dont drop projects, keep support for packages.
   > - [x] Work on new technology within my intrests. 
   > - [x] Post regularly on my blog blogs (https://reeceharris.net)
+</details> 
+
+ <details>
+
+  <summary>Free Slipper Zero!</summary>
+
+ # GET RICK ROLLED !
+ ![lol](./cdn/rr.gif)
+
 </details> 
 
 #
