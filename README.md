@@ -31,7 +31,7 @@ JSON         40 mins         █░░░░░░░░░░░░░░░░
   <summary>About Me</summary>
   
   > 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 \
-  >I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security within England's secret services, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
+  >I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
   >
   >📝 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 \
   >Dedicated software engineer with the ability to multitask and work well with others, efficient code-oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.
