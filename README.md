@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Twig         2 hrs 6 mins    █████████████░░░░░░░░░░░░   51.94 %
-PHP          1 hr 40 mins    ██████████▒░░░░░░░░░░░░░░   41.02 %
-JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
