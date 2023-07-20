@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 26 mins   ████████████░░░░░░░░░░░░░   47.41 %
-JavaScript   2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.39 %
-EJS          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
