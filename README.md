@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+EJS              28 mins         █████████████░░░░░░░░░░░░   52.26 %
+JavaScript       26 mins         ████████████░░░░░░░░░░░░░   47.60 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
