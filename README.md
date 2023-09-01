@@ -1,7 +1,6 @@
 # Hey, I'm Reece! 👋
 
-
-### Weekly overview
+### Weekly overview 
 
 <!--START_SECTION:waka-->
 
@@ -14,8 +13,8 @@ Markdown         0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<sub>* This is only a overview of personal time development, not working hours.</sub>
 
+<sub>Powerd by [wakatime](https://wakatime.com/), automated by [athul/waka-readme](https://github.com/athul/waka-readme)</sub>
 
 ### Tech experience
 [NodeJs](https://github.com/search?q=owner%3ANotReeceHarris++language%3AJavaScript&type=code) |
@@ -85,7 +84,8 @@ MYSQL |
 Redis |
 MongoDB
 
-### MMORPG enthusiast
+<!--
+### Mmorpg enthusiast
 Diablo IV |
 New World |
 Lost Ark |
@@ -94,10 +94,9 @@ Runescape |
 Neverwinter |
 Path of Exiles |
 Trove
+-->
 
-<br>
-
- <details>
+<!-- <details>
 
   <summary>About Me</summary>
   
@@ -121,16 +120,7 @@ Trove
   > - [x] Dont drop projects, keep support for packages.
   > - [x] Work on new technology within my intrests. 
   > - [x] Post regularly on my blog blogs (https://reeceharris.net)
-</details> 
-
- <details>
-
-  <summary>Free Flipper Zero!</summary>
-
- # GET RICK ROLLED !
- ![lol](./cdn/rr.gif)
-
-</details> 
+</details> -->
 
 #
 
