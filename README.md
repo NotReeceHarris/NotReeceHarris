@@ -1,6 +1,4 @@
-# Hey, I'm Reece! 👋
-
-### Weekly overview 
+## Weekly overview 
 
 <!--START_SECTION:waka-->
 
@@ -14,9 +12,7 @@ JSON             9 mins          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub>Powerd by [wakatime](https://wakatime.com/), automated by [athul/waka-readme](https://github.com/athul/waka-readme)</sub>
-
-### Tech experience
+## Tech experience
 [`NodeJs`](https://github.com/search?q=owner%3ANotReeceHarris++language%3AJavaScript&type=code)
 [`Python`](https://github.com/search?q=owner%3ANotReeceHarris++language%3APython+&type=code)
 `C`
