@@ -80,7 +80,7 @@ JSON             9 mins          ░░░░░░░░░░░░░░░�
 [`Terrain generation`](https://www.roblox.com/games/9560075253/AdventureTest) 
 `Interpolation Algorithms` 
 `SQL` 
-`MYSQ`L 
+`MYSQL` 
 `Redis` 
 `MongoDB`
 
