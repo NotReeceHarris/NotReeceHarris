@@ -79,6 +79,8 @@ CSS          8 mins          ░░░░░░░░░░░░░░░░░
 `MYSQL` 
 `Redis` 
 `MongoDB`
+[`Steganography`](https://github.com/NotReeceHarris/stega.js)
+[`Post-quantum encryption`](https://github.com/NotReeceHarris/post-quantum-encryption)
 
 <!--
 ### Mmorpg enthusiast
