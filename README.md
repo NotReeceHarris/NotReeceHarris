@@ -80,7 +80,7 @@ HTML         22 mins         ▓░░░░░░░░░░░░░░░░
 `Redis` 
 `MongoDB`
 [`Steganography`](https://github.com/NotReeceHarris/stega.js)
-[`Post-quantum encryption`](https://github.com/NotReeceHarris/post-quantum-encryption)
+[`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
 
 <!--
 ### Mmorpg enthusiast
