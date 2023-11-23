@@ -82,43 +82,12 @@ JSON         17 mins         ▒░░░░░░░░░░░░░░░░
 [`Steganography`](https://github.com/NotReeceHarris/stega.js)
 [`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
 
-<!--
-### Mmorpg enthusiast
-Diablo IV |
-New World |
-Lost Ark |
-The Elder Scrolls Online |
-Runescape | 
-Neverwinter |
-Path of Exiles |
-Trove
--->
+## Project bucketlist
 
-<!-- <details>
-
-  <summary>About Me</summary>
-  
-  > 🚀 𝗙𝘂𝘁𝘂𝗿𝗲 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻𝘀 \
-  >I believe to succeed you need to aim for the moon and land on mars that's why I have high ambitions to work in the industry of Cyber security, however, it's always best to have a backup plan and mine would be working with companies all around the world to find and patch vulnerabilities in their platform and network. 
-  >
-  >📝 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 \
-  >Dedicated software engineer with the ability to multitask and work well with others, efficient code-oriented, bringing forth a professional and friendly attitude. Highly organized, and skilled in software concepts and fast learning. Committed to utilizing my skills to create scalable and maintainable products, while working towards the mission of a company, A strong leader who works well under pressure, and exudes productiveness.
-  >
-  >✨ 𝗗𝗿𝗲𝗮𝗺 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗿𝘀 
-  > - [Monzo](https://github.com/monzo) 
-  > - [BAE systems](https://www.baesystems.com/) 
-  > 
-  > 📚 𝗜𝗻𝘁𝗿𝗲𝘀𝘁𝘀 
-  > - Artificial intelligence 
-  > - Cyber security 
-  > - Cryptography 
-  > - Blog Writing
-  > 
-  > 🎉 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿'𝘀 𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 
-  > - [x] Dont drop projects, keep support for packages.
-  > - [x] Work on new technology within my intrests. 
-  > - [x] Post regularly on my blog blogs (https://reeceharris.net)
-</details> -->
+[`Trading bot/algorithm`](https://github.com/mementum/backtrader)
+[`Compression algorithm`](https://github.com/NotReeceHarris/berry)
+[`Encryption algorithm`](https://github.com/NotReeceHarris/lettuce)
+[`Automated pentesting`](https://github.com/recon-raccoon/framework)
 
 #
 
