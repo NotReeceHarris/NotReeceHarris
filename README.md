@@ -85,8 +85,7 @@ JSON         17 mins         ▒░░░░░░░░░░░░░░░░
 
 ## Project bucketlist
 
-[`Trading bot/algorithm`](https://github.com/mementum/backtrader)
-[`Compression algorithm`](https://github.com/NotReeceHarris/berry)
+[`Trading bot/algorithm`](https://github.com/NotReeceHarris/berry)
 [`Encryption algorithm`](https://github.com/NotReeceHarris/lettuce)
 [`Automated pentesting`](https://github.com/recon-raccoon/framework)
 
