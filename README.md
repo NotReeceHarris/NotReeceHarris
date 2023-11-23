@@ -81,6 +81,7 @@ JSON         17 mins         ▒░░░░░░░░░░░░░░░░
 `MongoDB`
 [`Steganography`](https://github.com/NotReeceHarris/stega.js)
 [`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
+`Meta trader 5`
 
 ## Project bucketlist
 
