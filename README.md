@@ -109,18 +109,3 @@ EJS             1 hr 53 mins    █▓░░░░░░░░░░░░░░
   [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/)
   
 </p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# 
-
-<sub>
-
-Read my latest article [here](https://reeceharris.net/latest)!
-
-</sub>
