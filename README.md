@@ -94,7 +94,7 @@ EJS             1 hr 53 mins    █▓░░░░░░░░░░░░░░
 <br>
 
 
-<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?theme=unicorn&font=Ubuntu%20Mono&ext=activity">
+<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?theme=wtf&font=Ubuntu%20Mono&ext=activity">
 <p align="right" >
   
   [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
