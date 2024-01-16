@@ -93,14 +93,27 @@ EJS             1 hr 53 mins    █▓░░░░░░░░░░░░░░
 
 <br>
 
-[![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris)
-[![StackOverflow - Reece Harris](https://img.shields.io/badge/stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16701094/reece-harris)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com)
-[![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris)
-[![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris)
-[![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/)
 
-#
+<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?theme=unicorn&font=Ubuntu%20Mono&ext=activity">
+<p align="right" >
+  
+  [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
+  [![StackOverflow - Reece Harris](https://img.shields.io/badge/stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16701094/reece-harris) \
+  [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com) \
+  [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris) \
+  [![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris) \
+  [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/)
+  
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 
 
 <sub>
 
