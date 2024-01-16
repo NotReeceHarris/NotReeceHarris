@@ -83,11 +83,15 @@ EJS             1 hr 53 mins    █▓░░░░░░░░░░░░░░
 [`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
 `Meta trader 5`
 
+<!--
+
 ## Project bucketlist
 
 [`Trading bot/algorithm`](https://github.com/NotReeceHarris/berry)
 [`Encryption algorithm`](https://github.com/NotReeceHarris/lettuce)
 [`Automated pentesting`](https://github.com/recon-raccoon/framework)
+
+-->
 
 #
 
