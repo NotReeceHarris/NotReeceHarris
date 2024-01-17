@@ -98,8 +98,10 @@ CSS          1 hr 14 mins    █▒░░░░░░░░░░░░░░░
 <br>
 
 
-<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?theme=wtf&font=Ubuntu%20Mono&ext=activity">
+<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity">
 <p align="right" >
+
+  <br>
   
   [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
   [![StackOverflow - Reece Harris](https://img.shields.io/badge/stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16701094/reece-harris) \
