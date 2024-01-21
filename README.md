@@ -98,7 +98,7 @@ Markdown     1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <br>
 
 
-<a href="https://leetcode.com/NotReeceHarris/"><img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity"></a>
+<a href="https://github.com/NotReeceHarris/leet-solutions"><img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity"></a>
 <p align="right" >
 
   [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
