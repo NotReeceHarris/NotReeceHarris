@@ -12,7 +12,7 @@ Markdown     1 hr 24 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Tech experience
+## Experience's
 [`NodeJs`](https://github.com/search?q=owner%3ANotReeceHarris++language%3AJavaScript&type=code)
 [`Python`](https://github.com/search?q=owner%3ANotReeceHarris++language%3APython+&type=code)
 `C`
@@ -98,11 +98,9 @@ Markdown     1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <br>
 
 
-<img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity">
+<a href="https://leetcode.com/NotReeceHarris/"><img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity"></a>
 <p align="right" >
 
-  <br>
-  
   [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
   [![StackOverflow - Reece Harris](https://img.shields.io/badge/stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16701094/reece-harris) \
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com) \
