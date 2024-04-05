@@ -1,3 +1,7 @@
+## Bio
+
+Hello, I'm Reece, a full-stack cybersecurity software engineer. Describing my work as 'a bit of a handful' encapsulates the dynamic nature of my role and aligns with my passion for tackling complex challenges. Currently, my primary programming language is TypeScript, although I'm gradually transitioning to GoLang due to its structured approach and streamlined operations, which resonate with me.
+
 ## Weekly overview 
 
 <!--START_SECTION:waka-->
