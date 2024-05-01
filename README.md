@@ -110,6 +110,6 @@ Rust            2 hrs 5 mins    █▓░░░░░░░░░░░░░░
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com) \
   [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris) \
   [![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris) \
-  [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/)
-  
+  [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/) \
+  [![Leet Code](https://img.shields.io/badge/Hacker_One-070707?style=for-the-badge&logo=hackerone&logoColor=white)]([https://leetcode.com/NotReeceHarris/](https://hackerone.com/notreeceharris))
 </p>
