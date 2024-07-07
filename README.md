@@ -7,11 +7,11 @@ Hello, I'm Reece, a full-stack cybersecurity software engineer. Describing my wo
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte        10 hrs 49 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 %
-TypeScript    7 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-HTML          7 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Vue.js        2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-CSS           1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Svelte        10 hrs 23 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
+TypeScript    8 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+HTML          6 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Vue.js        3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JavaScript    1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
