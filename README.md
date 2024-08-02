@@ -7,11 +7,11 @@ Hello, I'm Reece, a full-stack cybersecurity software engineer. Describing my wo
 <!--START_SECTION:waka-->
 
 ```txt
-C++           6 hrs 4 mins    ████████████░░░░░░░░░░░░░   47.86 %
-JavaScript    1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Vue.js        1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Go            50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Bash          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+C++           6 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.84 %
+PHP           2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JavaScript    1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Bash          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Vue.js        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
