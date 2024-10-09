@@ -1,6 +1,6 @@
 ## Bio
 
-Hello, I'm Reece, a full-stack cybersecurity software engineer. Describing my work as 'a bit of a handful' encapsulates the dynamic nature of my role and aligns with my passion for tackling complex challenges. Currently, my primary programming language is TypeScript, although I'm gradually transitioning to GoLang due to its structured approach and streamlined operations, which resonate with me.
+Hey, I’m Reece, a full-stack cybersecurity software engineer. My job definitely keeps me on my toes, and I enjoy tackling complex challenges. Right now, I’m working mainly with TypeScript and Rust. I’m particularly interested in cryptography and secure communications. For me, adding encryption to a WebSocket protocol is like my version of a ‘hello world’ script.
 
 ## Weekly overview 
 
@@ -95,7 +95,7 @@ Rust          29 mins         ▓░░░░░░░░░░░░░░░�
 [`Encryption algorithm`](https://github.com/NotReeceHarris/lettuce)
 [`Automated pentesting`](https://github.com/recon-raccoon/framework)
 
--->
+
 
 #
 
@@ -113,3 +113,5 @@ Rust          29 mins         ▓░░░░░░░░░░░░░░░�
   [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/) \
   [![Leet Code](https://img.shields.io/badge/Hacker_One-070707?style=for-the-badge&logo=hackerone&logoColor=white)]([https://leetcode.com/NotReeceHarris/](https://hackerone.com/notreeceharris))
 </p>
+
+-->
