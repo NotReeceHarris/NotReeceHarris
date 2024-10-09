@@ -1,6 +1,8 @@
-## Bio
+## About me
 
 Hey, I’m Reece, a full-stack cybersecurity software engineer. My job definitely keeps me on my toes, and I enjoy tackling complex challenges. Right now, I’m working mainly with TypeScript and Rust. I’m particularly interested in cryptography and secure communications. For me, adding encryption to a WebSocket protocol is like my version of a ‘hello world’ script.
+
+In my free time, I’m building an automated, data-driven decision-making SaaS company called **[Tricera Systems](https://tricerasystems.com)**. My goal is to create highly customisable, interconnected software solutions that are affordable and accessible to everyone. I’m a strong believer in open source, so most of Tricera Systems is [open source](https://github.com/TriceraSystems/). That said, to keep things profitable, some features are closed and proprietary.
 
 ## Weekly overview 
 
