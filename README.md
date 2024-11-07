@@ -9,11 +9,11 @@ In my free time, I’m building an automated, data-driven decision-making SaaS c
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-TypeScript   1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Python       1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-JavaScript   1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-Bash         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+HTML            3 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+JavaScript      3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+TypeScript      1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Python          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Markdown        56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 
 <!--END_SECTION:waka-->
