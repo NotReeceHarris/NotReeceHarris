@@ -9,11 +9,11 @@ In my free time, I’m building an automated, data-driven decision-making SaaS c
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      15 hrs 53 mins  ████████████▒░░░░░░░░░░░░   49.04 %
-Svelte          9 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-Markdown        2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Rust            1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Other           1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+TypeScript      15 hrs 36 mins  ███████████▓░░░░░░░░░░░░░   47.29 %
+Python          5 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Svelte          4 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Markdown        2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Rust            1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
