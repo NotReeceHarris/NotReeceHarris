@@ -9,11 +9,11 @@ In my free time, I’m building an automated, data-driven decision-making SaaS c
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Svelte       47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Text         44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Python       44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-YAML         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Bash         1 hr 15 mins    ███████░░░░░░░░░░░░░░░░░░   27.76 %
+Svelte       47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Text         43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Python       38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+TypeScript   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
 ```
 
 <!--END_SECTION:waka-->
