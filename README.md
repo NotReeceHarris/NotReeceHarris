@@ -9,11 +9,7 @@ In my free time, I’m building an automated, data-driven decision-making SaaS c
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             1 hr 55 mins    ███████████▒░░░░░░░░░░░░░   45.55 %
-Rust            1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-TOML            37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-TypeScript      16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Other           16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
