@@ -8,18 +8,6 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 
 I also founded **Doodad Labs**, an open-source development group focused on creating **random, weird, and uniquely useful software**—from Svelte components to database cache proxies—all freely available for anyone to use.  
 
-### Key Improvements:  
-1. **Stronger Opening** – Clear, concise introduction with emphasis on your expertise.  
-2. **Metrics & Impact** – Highlighted the scale of your work (200K+ devices).  
-3. **Grammar & Readability** – Polished phrasing and fixed errors (e.g., "desitation" → "dissertation").  
-4. **Structured Flow** – Organized details logically (professional work → side projects → research).  
-5. **More Engaging** – Added a closing line to reinforce your passion.  
-
-Would you like any further refinements, such as tailoring this for a specific job or audience?
-
-
-
-
 ## Weekly overview 
 
 <!--START_SECTION:waka-->
