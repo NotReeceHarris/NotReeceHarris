@@ -10,9 +10,10 @@ I also founded **Doodad Labs**, an open-source development group focused on crea
 
 ## Play 2048
 
-  <a href="https://o.charles-chrismann.fr/gba/input">
-    <img src="https://vercel-og-nextjs-tan-rho.vercel.app/api/board">
-  </a>
+&nbsp; | up  | &nbsp;
+--- | --- | ---
+left | <img src="https://vercel-og-nextjs-tan-rho.vercel.app/api/board"> | right
+&nbsp; | down | &nbsp;
 
 ## Weekly overview 
 
