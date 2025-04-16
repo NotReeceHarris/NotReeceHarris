@@ -1,8 +1,24 @@
 ## About me
 
-Hey, I’m Reece, a full-stack cybersecurity software engineer. My job definitely keeps me on my toes, and I enjoy tackling complex challenges. Right now, I’m working mainly with TypeScript and Rust. I’m particularly interested in cryptography and secure communications. For me, adding encryption to a WebSocket protocol is like my version of a ‘hello world’ script.
+**Hello, I'm Reece—a Full Stack Software Engineer with a degree in Cybersecurity.**  
 
-In my free time, I’m building an automated, data-driven decision-making SaaS company called **[Tricera Systems](https://tricerasystems.com)**. My goal is to create highly customisable, interconnected software solutions that are affordable and accessible to everyone. I’m a strong believer in open source, so most of Tricera Systems is [open source](https://github.com/TriceraSystems/). That said, to keep things profitable, some features are closed and proprietary.
+With over five years of professional experience in full-stack development, I specialize in **large-scale, secure, and highly scalable communication systems**. My most notable project includes designing and developing an **emergency real-time alert system** currently handling **200,000+ devices** using WebSockets.  
+
+Beyond my professional work, I’m an **open-source contributor** and **security researcher**, often diving into whatever technical challenge catches my interest. For my degree dissertation, I developed a **decentralized peer-to-peer encrypted radio communication protocol** using Raspberry Pis and the LoRa radio protocol.  
+
+I also founded **Doodad Labs**, an open-source development group focused on creating **random, weird, and uniquely useful software**—from Svelte components to database cache proxies—all freely available for anyone to use.  
+
+### Key Improvements:  
+1. **Stronger Opening** – Clear, concise introduction with emphasis on your expertise.  
+2. **Metrics & Impact** – Highlighted the scale of your work (200K+ devices).  
+3. **Grammar & Readability** – Polished phrasing and fixed errors (e.g., "desitation" → "dissertation").  
+4. **Structured Flow** – Organized details logically (professional work → side projects → research).  
+5. **More Engaging** – Added a closing line to reinforce your passion.  
+
+Would you like any further refinements, such as tailoring this for a specific job or audience?
+
+
+
 
 ## Weekly overview 
 
@@ -88,32 +104,3 @@ Bash         16 mins         ▓░░░░░░░░░░░░░░░░
 [`Steganography`](https://github.com/NotReeceHarris/stega.js)
 [`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
 `Meta trader 5`
-
-<!--
-
-## Project bucketlist
-
-[`Trading bot/algorithm`](https://github.com/NotReeceHarris/berry)
-[`Encryption algorithm`](https://github.com/NotReeceHarris/lettuce)
-[`Automated pentesting`](https://github.com/recon-raccoon/framework)
-
-
-
-#
-
-<br>
-
-
-<a href="https://github.com/NotReeceHarris/leet-solutions"><img align="left" src="https://leetcard.jacoblin.cool/NotReeceHarris?font=Ubuntu%20Mono&ext=activity"></a>
-<p align="right" >
-
-  [![LinkedIn - Reece Harris](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notreeceharris) \
-  [![StackOverflow - Reece Harris](https://img.shields.io/badge/stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16701094/reece-harris) \
-  [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:reeceharris@email.com) \
-  [![Twitter - @N0tReeceHarris](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tReeceHarris) \
-  [![Github Sponsor](https://img.shields.io/badge/Sponsor-ca5d9e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/NotReeceHarris) \
-  [![Leet Code](https://img.shields.io/badge/Leet_Code-fda515?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NotReeceHarris/) \
-  [![Leet Code](https://img.shields.io/badge/Hacker_One-070707?style=for-the-badge&logo=hackerone&logoColor=white)]([https://leetcode.com/NotReeceHarris/](https://hackerone.com/notreeceharris))
-</p>
-
--->
