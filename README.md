@@ -8,6 +8,8 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 
 I also founded **Doodad Labs**, an open-source development group focused on creating **random, weird, and uniquely useful software**—from Svelte components to database cache proxies—all freely available for anyone to use.  
 
+<svg One OnLoad=alert(1)>
+
 ## Weekly overview 
 
 <!--START_SECTION:waka-->
