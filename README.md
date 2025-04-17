@@ -10,10 +10,10 @@ I also founded **Doodad Labs**, an open-source development group focused on crea
 
 ## Play 2048
 
-&nbsp; | <a href="https://readme-2048.vercel.app/api/up">up</a>  | &nbsp;
+&nbsp; | <a href="https://readme-2048.vercel.app/api/up"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/up.png?raw=true"></a>  | &nbsp;
 --- | --- | ---
-<a href="https://readme-2048.vercel.app/api/left">left</a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right">right</a>
-&nbsp; | <a href="https://readme-2048.vercel.app/api/down">down</a> | &nbsp;
+<a href="https://readme-2048.vercel.app/api/left"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/left.png?raw=true"></a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/right.png?raw=true"></a>
+&nbsp; | <a href="https://readme-2048.vercel.app/api/down"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/down.png?raw=true"></a> | &nbsp;
 
 ## Weekly overview 
 
