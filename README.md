@@ -8,13 +8,6 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 
 I also founded **Doodad Labs**, an open-source development group focused on creating **random, weird, and uniquely useful software**—from Svelte components to database cache proxies—all freely available for anyone to use.  
 
-## Play 2048
-
-&nbsp; | <a href="https://readme-2048.vercel.app/api/up"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/up.png?raw=true"></a>  | &nbsp;
---- | --- | ---
-<a href="https://readme-2048.vercel.app/api/left"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/left.png?raw=true"></a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/right.png?raw=true"></a>
-&nbsp; | <a href="https://readme-2048.vercel.app/api/down"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/down.png?raw=true"></a> | &nbsp;
-
 ## Weekly overview 
 
 <!--START_SECTION:waka-->
@@ -99,3 +92,10 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 [`Steganography`](https://github.com/NotReeceHarris/stega.js)
 [`Post-quantum encryption`](https://github.com/NotReeceHarris/lettuce)
 `Meta trader 5`
+
+## Play 2048
+
+&nbsp; | <a href="https://readme-2048.vercel.app/api/up"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/up.png?raw=true"></a>  | &nbsp;
+--- | --- | ---
+<a href="https://readme-2048.vercel.app/api/left"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/left.png?raw=true"></a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/right.png?raw=true"></a>
+&nbsp; | <a href="https://readme-2048.vercel.app/api/down"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/down.png?raw=true"></a> | &nbsp;
