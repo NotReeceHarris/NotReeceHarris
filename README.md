@@ -20,11 +20,11 @@ left | <img src="https://vercel-og-nextjs-tan-rho.vercel.app/api/board"> | right
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 34 mins   ███████████████▒░░░░░░░░░   61.99 %
-PHP          3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+PHP          8 hrs 30 mins   ███████████████▓░░░░░░░░░   63.17 %
+TypeScript   4 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
