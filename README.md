@@ -10,10 +10,10 @@ I also founded **Doodad Labs**, an open-source development group focused on crea
 
 ## Play 2048
 
-&nbsp; | up  | &nbsp;
+&nbsp; | <a href="https://readme-2048.vercel.app/api/up">up</a>  | &nbsp;
 --- | --- | ---
-left | <img src="https://vercel-og-nextjs-tan-rho.vercel.app/api/board"> | right
-&nbsp; | down | &nbsp;
+<a href="https://readme-2048.vercel.app/api/left">left</a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right">right</a>
+&nbsp; | <a href="https://readme-2048.vercel.app/api/down">down</a> | &nbsp;
 
 ## Weekly overview 
 
