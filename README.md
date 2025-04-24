@@ -52,8 +52,12 @@ Bash         24 mins         ▓░░░░░░░░░░░░░░░░
 `Protocol Architecture`
 `AWS`
 `Web Development`
-`Post-quantum encryption`
+`Post-Quantum Encryption`
 `C/C++`
+`Image Recognition`
+`System Architecture`
+`System Hardening`
+`Cybersecurity`
 
 ## Play 2048
 
