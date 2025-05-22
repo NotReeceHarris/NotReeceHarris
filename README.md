@@ -13,11 +13,11 @@ I also founded **Doodad Labs**, an open-source development group focused on crea
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   47.23 %
-PHP          56 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
-TypeScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Prisma       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Svelte       6 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.81 %
+TypeScript   3 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 %
+PHP          56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Prisma       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
