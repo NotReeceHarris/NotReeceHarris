@@ -6,7 +6,7 @@ With over five years of professional experience in full-stack development, I spe
 
 Beyond my professional work, I’m an **open-source contributor** and **security researcher**, often diving into whatever technical challenge catches my interest. For my degree dissertation, I developed a **decentralized peer-to-peer encrypted radio communication protocol** using Raspberry Pis and the LoRa radio protocol.  
 
-I also founded **Doodad Labs**, an open-source security development group focused on creating **random, weird, and uniquely useful security software**— freely available for anyone to use.  
+I also founded [**Doodad Labs**](https://github.com/doodad-labs), an open-source security development group focused on creating **random, weird, and uniquely useful security software**— freely available for anyone to use.  
 
 ## Weekly overview 
 
