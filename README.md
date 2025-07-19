@@ -13,11 +13,11 @@ I also founded [**Doodad Labs**](https://github.com/doodad-labs), an open-source
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       2 hrs 47 mins   ███████████▒░░░░░░░░░░░░░   44.78 %
-TypeScript   1 hr 48 mins    ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-Rust         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Git Config   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Svelte       2 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.11 %
+TypeScript   1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Rust         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Git Config   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
