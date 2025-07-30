@@ -13,8 +13,7 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-Go       6 mins          ██████████████▒░░░░░░░░░░   57.15 %
-Svelte   5 mins          ██████████▓░░░░░░░░░░░░░░   42.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
