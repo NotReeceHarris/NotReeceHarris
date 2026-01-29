@@ -13,11 +13,11 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    9 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.30 %
-PHP           5 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
-Svelte        3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Twig          2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Bash          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Svelte        9 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
+TypeScript    7 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+PHP           5 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Twig          1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Bash          1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
