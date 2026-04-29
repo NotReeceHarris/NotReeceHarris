@@ -13,7 +13,11 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 58 mins         ██████████████████▓░░░░░░   74.35 %
+Markdown     42 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+Svelte       15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
