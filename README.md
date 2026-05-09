@@ -59,9 +59,12 @@ PHP          8 mins                ░░░░░░░░░░░░░░░
 `System Hardening`
 `Cybersecurity`
 
+<!---
 ## Play 2048
 
 &nbsp; | <a href="https://readme-2048.vercel.app/api/up"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/up.png?raw=true"></a>  | &nbsp;
 --- | --- | ---
 <a href="https://readme-2048.vercel.app/api/left"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/left.png?raw=true"></a> | <img src="https://readme-2048.vercel.app/api/board"> | <a href="https://readme-2048.vercel.app/api/right"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/right.png?raw=true"></a>
 &nbsp; | <a href="https://readme-2048.vercel.app/api/down"><img src="https://github.com/NotReeceHarris/NotReeceHarris/blob/main/cdn/down.png?raw=true"></a> | &nbsp;
+
+---!>
