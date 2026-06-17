@@ -1,4 +1,4 @@
-## Hello, **I'm Reece—a Full Stack Software Engineer with a degree in Cybersecurity.**  
+## Hello, **I'm Reece—a Security Engineer with a intrest in automation.**  
 
 With over five years of professional experience in full-stack development, I specialize in **large-scale, secure, and highly scalable communication systems**. My most notable project includes designing and developing an **emergency real-time alert system** currently handling **200,000+ devices** using WebSockets.  
 
