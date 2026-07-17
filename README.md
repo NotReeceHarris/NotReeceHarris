@@ -11,11 +11,7 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         31 mins               ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-Go           24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-TypeScript   16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Other        13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Markdown     11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Go   24 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
