@@ -11,11 +11,11 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          5 hrs 41 mins         ██████████▓░░░░░░░░░░░░░░   42.26 %
-Markdown     1 hr 51 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-TOML         1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-JSON         1 hr 16 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-TypeScript   1 hr 15 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Lua          8 hrs 2 mins          ██████████▓░░░░░░░░░░░░░░   42.54 %
+YAML         2 hrs 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Markdown     2 hrs 5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TypeScript   1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+TOML         1 hr 21 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
