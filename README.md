@@ -20,6 +20,8 @@ TOML         1 hr 21 mins          █▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/1ead0ef1-95e3-47d1-bf9d-60841a54426c.svg)](https://wakatime.com/@1ead0ef1-95e3-47d1-bf9d-60841a54426c)
+
 ## Experience's
 
 `TypeScript`
