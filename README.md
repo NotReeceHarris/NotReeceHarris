@@ -11,10 +11,9 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-Python       57 mins               █████████████░░░░░░░░░░░░   51.93 %
-Markdown     34 mins               ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-TypeScript   18 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Svelte       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       57 mins               █████████████▓░░░░░░░░░░░   54.20 %
+Markdown     34 mins               ████████░░░░░░░░░░░░░░░░░   32.50 %
+TypeScript   14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
 ```
 
 <!--END_SECTION:waka-->
