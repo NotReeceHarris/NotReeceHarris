@@ -11,11 +11,11 @@ Beyond my professional work, I’m an **open-source contributor** and **security
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 43 mins          ██████████▓░░░░░░░░░░░░░░   42.43 %
-Markdown     48 mins               █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-YAML         45 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Bash         22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-TypeScript   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Python       1 hr 43 mins          ██████████░░░░░░░░░░░░░░░   40.47 %
+Markdown     48 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+YAML         45 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Bash         22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+TypeScript   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
