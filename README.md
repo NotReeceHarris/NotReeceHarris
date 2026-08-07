@@ -22,4 +22,4 @@ JSON         50 mins               ██░░░░░░░░░░░░░
 
 ## Quick Links
 
-[Website](https://reeceharris.net) | [LinkedIn](https://www.linkedin.com/in/notreeceharris/) | [Dev.to](https://dev.to/notreeceharris)
+[Website](https://reeceharris.net) | [LinkedIn](https://www.linkedin.com/in/notreeceharris/) | [X (Twitter)](https://x.com/N0tReeceHarris)
