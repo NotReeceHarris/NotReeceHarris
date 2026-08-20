@@ -9,11 +9,11 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                      3 hrs 35 mins         ███████████▒░░░░░░░░░░░░░   45.55 %
-Svelte                    1 hr 38 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Python                    58 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-TOML                      22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-TypeScript                18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Rust                      3 hrs 7 mins          ████████████░░░░░░░░░░░░░   48.15 %
+Svelte                    1 hr 24 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+Python                    47 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+TOML                      17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Markdown                  14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
