@@ -9,11 +9,11 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 37 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Svelte       1 hr 22 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-C            1 hr 18 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Go           1 hr 8 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Markdown     1 hr 6 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+C            1 hr 18 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Markdown     1 hr 17 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+Go           1 hr 9 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+TypeScript   1 hr 7 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Svelte       48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
 ```
 
 <!--END_SECTION:waka-->
