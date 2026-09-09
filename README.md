@@ -9,11 +9,11 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte        40 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-Markdown      25 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Go            21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Bash          21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-YAML          13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Markdown      25 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+Go            21 mins               █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Bash          21 mins               █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+YAML          13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+JSON          9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
 ```
 
 <!--END_SECTION:waka-->
