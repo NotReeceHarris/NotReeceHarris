@@ -9,7 +9,11 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      1 hr 28 mins          ██████████░░░░░░░░░░░░░░░   40.00 %
+PowerShell    1 hr 4 mins           ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+JavaScript    18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Other         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Ruby          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
