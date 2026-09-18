@@ -9,11 +9,11 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      1 hr 28 mins          ██████████░░░░░░░░░░░░░░░   40.00 %
-PowerShell    1 hr 4 mins           ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-JavaScript    18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Other         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Ruby          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Go            2 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   28.30 %
+Markdown      1 hr 35 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+YAML          1 hr 5 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+PowerShell    1 hr 4 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+JSON          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
