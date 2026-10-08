@@ -9,7 +9,9 @@ Outside of my professional work, I like to build and tinker with things, hence t
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           6 mins                ██████████████░░░░░░░░░░░   55.84 %
+TypeScript   4 mins                ███████████░░░░░░░░░░░░░░   44.08 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
